@@ -1,0 +1,601 @@
+age,gender,education,region,household_income,internet_access,device_ownership,years_using_smartphone,digital_literacy,self_efficacy,privacy_concern,vision_impairment,hearing_impairment,motor_impairment,weekly_smartphone_use_hours,uses_messaging_apps,uses_video_calls,uses_banking_apps,uses_telehealth_before,difficulty_score,difficulty_level
+58,M,Médio,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,7.0,80.7,70.3,80.4,0,0,1,8.2,0,1,0,0,52.5,Média
+82,F,Médio,Rural,<=1 SM,1,Smartphone,5.0,52.6,35.4,48.2,1,1,0,19.4,1,1,1,0,80.3,Alta
+77,F,Fundamental,Centro-Oeste,4-8 SM,1,Smartphone,4.0,68.4,33.0,48.3,0,0,1,5.3,1,1,1,0,62.8,Média
+70,F,Médio,Sudeste,>=8 SM,1,Smartphone+PC/Tablet,5.0,41.5,85.5,91.0,1,0,0,13.6,1,1,1,0,65.4,Alta
+70,M,Pós-graduação,Sudeste,2-4 SM,1,Smartphone,11.0,52.0,63.0,77.4,0,1,0,11.9,1,1,1,1,64.8,Média
+85,F,Técnico,Sudeste,2-4 SM,1,Nenhum,3.0,39.4,49.9,54.2,0,0,0,2.6,1,1,1,0,85.4,Alta
+58,F,Médio,Sudeste,2-4 SM,1,Nenhum,6.0,77.2,41.1,59.9,0,0,1,10.3,1,1,1,1,78.8,Alta
+79,M,Fundamental,Sudeste,>=8 SM,1,Nenhum,7.0,60.6,48.3,59.9,0,1,1,9.0,1,0,0,0,99.0,Alta
+62,F,Médio,Nordeste,1-2 SM,0,Smartphone,12.0,61.6,36.8,62.6,1,0,0,3.9,1,0,0,0,94.0,Alta
+58,F,Médio,Sudeste,1-2 SM,1,Nenhum,5.0,79.4,72.0,71.5,0,1,0,11.1,1,1,0,0,70.5,Alta
+73,F,Superior,Nordeste,2-4 SM,1,Smartphone+PC/Tablet,10.0,75.8,43.8,100.0,0,0,0,9.9,1,1,0,1,54.6,Média
+89,F,Superior,Nordeste,2-4 SM,1,Smartphone+PC/Tablet,11.0,68.8,75.6,65.8,0,1,0,8.6,1,1,0,0,51.7,Média
+80,F,Pós-graduação,Sudeste,1-2 SM,1,Smartphone,6.0,29.4,50.2,75.3,1,1,1,8.6,1,0,0,0,100.0,Alta
+81,F,Pós-graduação,Sudeste,2-4 SM,0,Smartphone,5.0,42.5,39.3,28.3,0,0,0,8.5,1,1,0,1,78.7,Alta
+80,F,Pós-graduação,Sul,<=1 SM,1,Smartphone,5.0,36.9,49.8,52.3,1,1,0,6.8,1,1,0,0,85.5,Alta
+82,F,Pós-graduação,Nordeste,4-8 SM,1,Nenhum,5.0,68.1,12.4,86.6,0,0,0,9.8,1,1,0,0,89.0,Alta
+72,F,Fundamental,Nordeste,1-2 SM,1,Smartphone,9.0,58.1,54.9,70.0,1,0,0,5.1,1,1,0,0,67.1,Alta
+59,M,Fundamental,Rural,<=1 SM,1,Feature phone,7.0,30.0,54.1,0.0,0,0,0,24.9,0,1,0,0,57.6,Média
+84,F,Médio,Nordeste,<=1 SM,0,Feature phone,7.0,51.6,71.0,75.5,0,0,1,0.5,1,1,1,1,80.1,Alta
+70,M,Técnico,Nordeste,1-2 SM,1,Smartphone,1.0,28.1,24.9,100.0,1,0,0,5.5,0,1,1,1,99.5,Alta
+72,M,Fundamental,Nordeste,1-2 SM,1,Nenhum,2.0,54.0,76.8,22.1,0,0,0,6.0,1,1,1,1,63.9,Média
+67,F,Superior,Sudeste,<=1 SM,1,Smartphone,15.0,25.2,71.0,92.4,0,0,0,21.2,0,1,0,1,68.4,Alta
+61,F,Técnico,Sul,1-2 SM,1,Smartphone,5.0,64.5,78.3,6.6,0,0,1,1.1,1,1,0,1,43.3,Média
+87,F,Técnico,Sudeste,1-2 SM,1,Smartphone+PC/Tablet,3.0,61.8,56.1,80.8,0,1,0,11.6,1,1,0,0,63.3,Média
+82,M,Fundamental,Sudeste,1-2 SM,0,Smartphone,12.0,89.3,74.2,61.8,0,0,0,10.5,1,1,0,0,50.0,Média
+77,M,Médio,Nordeste,1-2 SM,1,Smartphone+PC/Tablet,7.0,70.3,32.0,15.0,0,1,0,11.0,0,1,0,0,62.2,Média
+69,M,Fundamental,Centro-Oeste,1-2 SM,1,Smartphone,8.0,47.4,69.1,70.9,1,1,1,16.4,1,0,1,1,87.8,Alta
+83,F,Superior,Sudeste,1-2 SM,0,Smartphone+PC/Tablet,5.0,69.7,43.9,85.0,1,0,0,16.3,1,1,0,1,83.8,Alta
+74,M,Técnico,Nordeste,<=1 SM,1,Smartphone,5.0,29.8,28.9,69.3,0,0,0,6.3,1,1,0,1,76.6,Alta
+70,F,Superior,Nordeste,<=1 SM,1,Smartphone,5.0,37.7,37.9,73.7,0,1,0,10.2,1,0,1,0,84.8,Alta
+70,M,Médio,Nordeste,1-2 SM,0,Smartphone+PC/Tablet,0.0,61.0,57.1,53.8,1,0,0,0.0,1,1,1,0,81.6,Alta
+62,F,Médio,Nordeste,4-8 SM,1,Smartphone,6.0,16.2,43.0,24.8,0,0,1,9.6,1,0,0,1,83.5,Alta
+58,M,Médio,Sudeste,>=8 SM,1,Nenhum,7.0,54.3,63.4,75.8,0,1,1,4.2,1,1,0,0,94.9,Alta
+74,M,Superior,Sudeste,4-8 SM,1,Smartphone,13.0,36.6,26.3,97.0,0,0,0,7.9,1,1,1,0,78.3,Alta
+86,F,Superior,Norte,2-4 SM,1,Smartphone,6.0,56.8,20.8,84.6,0,0,0,0.0,1,1,0,0,70.8,Alta
+57,M,Médio,Sudeste,2-4 SM,1,Smartphone,0.0,35.6,80.3,22.2,0,1,1,11.4,1,1,1,0,65.9,Alta
+85,F,Pós-graduação,Sudeste,1-2 SM,1,Smartphone,6.0,62.6,72.4,31.7,1,0,1,0.0,1,1,1,1,62.2,Média
+83,M,Fundamental,Sudeste,4-8 SM,1,Smartphone+PC/Tablet,17.0,55.3,39.2,45.1,1,1,0,9.9,1,1,0,1,79.2,Alta
+64,F,Superior,Sudeste,4-8 SM,1,Smartphone,9.0,80.2,56.9,30.1,0,0,0,1.6,1,1,1,1,39.2,Média
+77,M,Fundamental,Sudeste,4-8 SM,1,Smartphone,3.0,55.1,74.3,62.9,0,0,0,3.9,1,0,0,0,53.8,Média
+60,F,Médio,Sul,4-8 SM,0,Smartphone,8.0,41.2,64.1,69.9,0,0,1,15.9,1,0,0,0,88.3,Alta
+81,M,Superior,Nordeste,2-4 SM,1,Smartphone+PC/Tablet,3.0,50.6,59.5,33.4,0,0,0,12.5,1,1,0,1,49.9,Média
+79,M,Fundamental,Centro-Oeste,4-8 SM,0,Feature phone,1.0,30.8,75.6,77.5,1,1,0,15.9,1,0,1,0,100.0,Alta
+67,M,Médio,Nordeste,4-8 SM,1,Feature phone,5.0,62.3,44.6,74.0,0,0,0,18.4,1,1,0,0,54.8,Média
+57,M,Médio,Sudeste,1-2 SM,1,Smartphone,6.0,65.6,57.5,51.0,1,0,0,4.4,1,1,0,1,60.1,Média
+88,M,Médio,Centro-Oeste,4-8 SM,1,Smartphone,0.0,99.4,56.7,58.5,0,0,0,18.0,1,0,1,0,36.6,Média
+70,M,Superior,Nordeste,<=1 SM,1,Smartphone+PC/Tablet,1.0,43.8,52.4,23.0,0,1,0,0.2,1,1,0,0,66.4,Alta
+86,F,Superior,Sudeste,>=8 SM,1,Smartphone,6.0,50.2,50.4,55.4,0,0,0,13.5,0,1,1,1,60.4,Média
+78,M,Superior,Nordeste,4-8 SM,1,Smartphone+PC/Tablet,4.0,44.6,58.2,62.1,0,0,0,6.0,1,1,1,0,58.7,Média
+82,F,Médio,Nordeste,<=1 SM,0,Smartphone,8.0,58.8,57.6,65.4,1,0,0,3.4,0,1,1,0,87.5,Alta
+81,M,Médio,Nordeste,2-4 SM,1,Nenhum,1.0,61.9,39.2,69.6,0,0,1,12.7,1,0,1,0,92.3,Alta
+61,F,Médio,Sudeste,<=1 SM,1,Feature phone,9.0,54.0,70.6,66.9,0,1,0,14.7,0,1,1,1,63.1,Média
+67,M,Médio,Nordeste,4-8 SM,1,Nenhum,1.0,74.6,40.4,56.7,0,1,0,14.5,1,1,0,1,80.9,Alta
+71,M,Fundamental,Centro-Oeste,4-8 SM,0,Smartphone,13.0,43.9,53.3,67.7,0,0,0,10.3,1,1,1,1,78.7,Alta
+72,F,Pós-graduação,Nordeste,2-4 SM,1,Smartphone,0.0,72.8,52.0,82.0,1,0,0,9.8,0,1,1,0,66.4,Alta
+56,F,Superior,Sudeste,4-8 SM,1,Smartphone,2.0,64.7,63.1,60.1,0,0,0,12.2,1,0,1,1,51.4,Média
+74,M,Superior,Sul,<=1 SM,1,Smartphone,8.0,54.8,21.0,68.4,0,0,0,10.8,1,1,1,1,67.1,Alta
+60,M,Médio,Sudeste,1-2 SM,1,Smartphone,13.0,49.3,72.1,58.3,0,0,1,12.2,0,1,1,0,61.9,Média
+81,F,Médio,Sudeste,1-2 SM,1,Smartphone,7.0,98.7,45.5,49.1,0,0,1,10.2,1,0,1,0,49.0,Média
+78,M,Médio,Sul,<=1 SM,1,Smartphone,8.0,40.3,77.7,72.5,0,0,0,14.1,0,1,0,1,57.7,Média
+87,M,Médio,Rural,2-4 SM,1,Smartphone,6.0,60.4,48.9,50.9,0,1,0,0.0,0,1,1,1,68.4,Alta
+81,F,Médio,Sudeste,1-2 SM,1,Smartphone,2.0,41.5,56.2,69.7,0,0,0,8.2,0,1,1,1,65.5,Alta
+67,F,Fundamental,Sul,1-2 SM,0,Smartphone,4.0,87.1,89.5,62.6,0,0,0,0.7,1,0,1,1,52.7,Média
+88,F,Fundamental,Sul,1-2 SM,1,Smartphone,1.0,71.0,52.3,55.9,0,0,1,10.7,1,1,0,1,55.0,Média
+69,M,Pós-graduação,Sudeste,4-8 SM,0,Smartphone,1.0,42.8,78.1,55.4,1,0,0,18.9,1,0,1,0,84.0,Alta
+66,F,Médio,Sudeste,1-2 SM,1,Smartphone,8.0,64.2,57.7,51.8,0,0,0,6.2,1,1,1,0,48.5,Média
+86,M,Pós-graduação,Norte,4-8 SM,1,Smartphone,2.0,59.6,64.1,29.1,0,0,0,9.8,1,1,0,1,44.1,Média
+67,M,Fundamental,Norte,1-2 SM,1,Smartphone,7.0,45.7,58.2,69.7,0,0,0,13.5,1,0,1,0,62.8,Média
+57,F,Técnico,Sudeste,1-2 SM,1,Feature phone,1.0,68.6,71.4,66.6,0,0,1,0.0,1,0,1,0,58.1,Média
+71,M,Médio,Sudeste,2-4 SM,1,Smartphone,7.0,62.0,45.3,79.0,1,1,0,5.9,1,1,0,1,79.9,Alta
+82,M,Médio,Sudeste,1-2 SM,0,Smartphone+PC/Tablet,4.0,58.9,40.3,51.4,0,1,0,11.2,0,0,0,0,92.9,Alta
+61,F,Fundamental,Sudeste,1-2 SM,1,Nenhum,12.0,54.2,46.1,99.9,0,0,0,0.0,0,1,1,1,91.4,Alta
+71,F,Fundamental,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,7.0,62.8,58.7,54.4,1,0,1,3.1,1,1,0,0,69.8,Alta
+59,F,Pós-graduação,Sul,1-2 SM,0,Feature phone,11.0,59.1,53.2,44.5,1,0,0,15.6,1,1,1,0,79.3,Alta
+79,F,Médio,Nordeste,1-2 SM,1,Smartphone,3.0,56.1,69.1,42.1,1,0,0,15.0,1,0,0,0,61.9,Média
+71,F,Técnico,Nordeste,2-4 SM,1,Smartphone,6.0,43.5,79.2,27.3,0,1,0,11.2,1,0,0,1,60.6,Média
+66,M,Médio,Sudeste,1-2 SM,1,Nenhum,2.0,85.5,40.4,92.7,0,1,0,14.3,1,0,0,1,86.4,Alta
+62,F,Médio,Sul,4-8 SM,1,Smartphone+PC/Tablet,4.0,36.1,44.5,89.4,0,0,0,10.3,1,1,1,0,70.5,Alta
+74,F,Médio,Rural,1-2 SM,1,Smartphone,5.0,62.7,32.6,74.0,0,0,0,12.3,1,1,1,0,60.0,Média
+78,M,Médio,Sul,>=8 SM,0,Smartphone+PC/Tablet,3.0,49.2,91.5,44.1,0,0,0,7.1,1,1,1,0,60.0,Média
+87,M,Pós-graduação,Sul,4-8 SM,0,Smartphone,1.0,86.7,62.2,98.2,1,0,0,9.7,1,0,1,1,78.0,Alta
+70,M,Superior,Nordeste,>=8 SM,0,Smartphone+PC/Tablet,0.0,38.7,65.2,55.0,0,1,0,5.2,1,0,1,1,91.0,Alta
+60,M,Superior,Sudeste,4-8 SM,1,Smartphone+PC/Tablet,0.0,41.8,34.2,56.6,0,0,0,16.6,1,0,0,1,70.4,Alta
+84,F,Médio,Nordeste,<=1 SM,1,Smartphone,2.0,37.5,57.0,90.7,0,0,0,18.1,0,1,1,0,68.2,Alta
+77,F,Fundamental,Sudeste,2-4 SM,1,Smartphone,9.0,60.8,65.7,75.2,0,0,0,17.3,1,0,1,1,53.5,Média
+79,Outro/Prefiro não dizer,Pós-graduação,Sul,1-2 SM,1,Smartphone,0.0,30.3,52.7,100.0,0,0,0,6.6,0,0,0,0,81.6,Alta
+58,M,Médio,Centro-Oeste,4-8 SM,1,Smartphone,1.0,46.4,75.3,67.0,1,0,0,3.3,1,1,1,0,65.2,Alta
+65,M,Fundamental,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,13.0,16.3,96.3,54.1,0,1,0,16.7,1,1,0,0,64.7,Média
+81,F,Médio,Nordeste,1-2 SM,1,Smartphone,3.0,59.3,40.9,49.8,1,0,0,12.3,1,0,0,0,72.0,Alta
+84,M,Superior,Nordeste,4-8 SM,1,Smartphone,7.0,46.0,39.6,25.1,0,0,0,11.0,1,1,1,0,58.0,Média
+70,M,Técnico,Nordeste,<=1 SM,1,Feature phone,9.0,28.2,42.1,56.4,0,0,0,5.2,1,0,1,1,76.0,Alta
+83,F,Superior,Norte,2-4 SM,0,Smartphone,9.0,74.5,84.3,84.9,0,0,0,11.6,0,0,0,0,65.4,Alta
+84,M,Superior,Sul,2-4 SM,1,Smartphone+PC/Tablet,0.0,31.5,74.7,74.0,1,0,1,2.5,1,0,1,1,86.3,Alta
+68,M,Médio,Sudeste,<=1 SM,1,Nenhum,5.0,69.3,54.7,62.4,0,0,0,12.8,0,1,0,1,73.5,Alta
+86,F,Pós-graduação,Sul,2-4 SM,1,Smartphone,0.0,42.4,57.6,42.1,0,0,1,17.3,1,1,1,0,62.6,Média
+65,F,Médio,Sudeste,4-8 SM,1,Smartphone+PC/Tablet,16.0,83.8,43.1,66.5,0,0,0,18.8,1,1,1,0,44.4,Média
+63,M,Técnico,Nordeste,<=1 SM,1,Nenhum,0.0,68.5,72.1,82.3,1,1,0,13.3,1,1,0,1,88.6,Alta
+78,F,Fundamental,Nordeste,2-4 SM,1,Feature phone,2.0,36.9,50.5,70.6,0,0,0,0.7,0,0,1,0,76.2,Alta
+77,F,Pós-graduação,Sudeste,1-2 SM,1,Smartphone,2.0,38.5,52.6,65.3,1,1,0,10.2,1,1,1,0,85.0,Alta
+59,F,Médio,Nordeste,2-4 SM,1,Smartphone,0.0,65.9,67.3,46.1,1,0,0,21.8,1,1,1,0,52.3,Média
+84,F,Fundamental,Sul,<=1 SM,1,Nenhum,11.0,50.3,53.8,79.3,1,0,0,3.8,1,1,0,1,94.7,Alta
+61,M,Médio,Nordeste,>=8 SM,1,Smartphone+PC/Tablet,16.0,52.0,53.0,0.0,0,0,1,8.6,1,1,0,1,55.3,Média
+83,M,Fundamental,Sudeste,4-8 SM,0,Smartphone,4.0,77.9,57.2,69.7,0,0,0,17.5,0,1,1,1,64.9,Média
+55,F,Fundamental,Sudeste,1-2 SM,1,Smartphone+PC/Tablet,1.0,41.5,70.5,100.0,1,0,1,12.7,1,1,1,1,80.1,Alta
+82,Outro/Prefiro não dizer,Técnico,Nordeste,1-2 SM,0,Smartphone+PC/Tablet,0.0,56.6,85.0,31.8,0,0,0,23.9,0,0,1,0,62.8,Média
+82,M,Médio,Nordeste,2-4 SM,1,Smartphone+PC/Tablet,5.0,72.2,67.0,57.2,0,1,0,4.6,0,1,1,1,56.7,Média
+82,F,Pós-graduação,Rural,2-4 SM,1,Smartphone,5.0,69.6,70.7,61.8,0,0,0,3.1,1,1,1,1,43.6,Média
+78,M,Médio,Nordeste,2-4 SM,1,Smartphone,3.0,52.1,53.6,52.7,1,0,0,16.3,1,1,0,0,65.4,Alta
+71,F,Superior,Sudeste,1-2 SM,1,Smartphone,7.0,49.8,45.0,82.7,0,1,1,1.8,0,1,1,1,86.9,Alta
+79,Outro/Prefiro não dizer,Médio,Sudeste,<=1 SM,0,Feature phone,8.0,23.7,68.1,71.4,0,0,1,7.8,1,1,1,1,91.7,Alta
+64,M,Técnico,Nordeste,>=8 SM,0,Smartphone,7.0,36.0,59.9,65.0,0,1,1,8.6,1,1,0,0,97.9,Alta
+82,M,Técnico,Sudeste,2-4 SM,1,Feature phone,5.0,60.7,32.8,77.9,1,1,1,15.2,1,1,0,0,90.8,Alta
+74,F,Médio,Sudeste,4-8 SM,1,Smartphone,2.0,52.5,51.4,62.3,0,1,0,12.7,1,1,1,0,66.2,Alta
+71,M,Pós-graduação,Centro-Oeste,2-4 SM,0,Nenhum,9.0,56.3,55.6,100.0,1,1,0,11.7,1,0,1,1,100.0,Alta
+72,F,Médio,Sul,4-8 SM,0,Smartphone,6.0,73.7,48.3,65.0,1,0,1,6.6,0,0,1,0,96.4,Alta
+74,F,Fundamental,Nordeste,<=1 SM,1,Smartphone,10.0,33.6,82.2,65.9,1,0,0,16.3,1,0,0,0,70.7,Alta
+56,F,Superior,Norte,<=1 SM,1,Smartphone,9.0,50.7,65.2,27.8,1,0,0,33.2,1,0,1,0,59.9,Média
+59,M,Superior,Sudeste,4-8 SM,1,Smartphone+PC/Tablet,0.0,58.4,80.3,51.1,0,0,0,13.1,1,1,0,1,41.7,Média
+63,F,Fundamental,Rural,>=8 SM,1,Nenhum,0.0,42.3,61.5,84.9,0,0,0,9.6,0,0,0,1,92.3,Alta
+59,M,Médio,Norte,1-2 SM,1,Smartphone+PC/Tablet,3.0,80.8,58.4,35.3,0,0,0,1.2,1,1,1,1,39.3,Média
+70,M,Superior,Nordeste,1-2 SM,1,Smartphone+PC/Tablet,2.0,71.4,41.1,18.8,1,0,0,5.2,1,1,1,0,58.3,Média
+78,F,Superior,Sudeste,2-4 SM,1,Smartphone,9.0,60.2,57.2,62.6,0,0,0,7.7,1,1,1,0,51.7,Média
+77,F,Pós-graduação,Sudeste,1-2 SM,0,Smartphone,7.0,87.3,57.2,89.4,0,0,0,5.8,1,0,1,1,66.9,Alta
+71,F,Médio,Norte,1-2 SM,1,Smartphone,10.0,28.0,33.8,62.8,1,1,0,8.9,1,1,1,0,96.2,Alta
+84,M,Técnico,Centro-Oeste,4-8 SM,1,Feature phone,8.0,54.9,47.8,55.3,0,1,0,19.7,1,1,0,0,63.9,Média
+74,M,Médio,Sudeste,1-2 SM,1,Smartphone,7.0,61.6,51.5,24.8,1,0,0,16.5,1,1,0,1,57.7,Média
+57,F,Pós-graduação,Centro-Oeste,2-4 SM,1,Feature phone,11.0,38.5,64.0,71.0,0,0,0,8.0,1,0,1,0,65.3,Alta
+81,M,Médio,Nordeste,<=1 SM,1,Smartphone+PC/Tablet,8.0,60.4,64.8,75.2,0,0,0,1.8,1,1,1,1,52.0,Média
+75,F,Superior,Nordeste,<=1 SM,1,Smartphone+PC/Tablet,6.0,35.1,47.1,26.4,0,0,0,17.0,1,0,0,1,64.3,Média
+77,M,Médio,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,12.0,67.4,65.0,84.7,0,0,0,8.7,1,1,0,1,48.9,Média
+74,M,Técnico,Sudeste,1-2 SM,1,Smartphone,6.0,74.0,53.9,77.3,0,0,0,0.0,1,1,0,0,50.4,Média
+74,M,Superior,Sul,2-4 SM,1,Smartphone,5.0,59.9,8.2,84.6,1,0,0,13.3,1,0,0,0,88.2,Alta
+58,M,Médio,Sudeste,<=1 SM,1,Smartphone+PC/Tablet,3.0,21.6,48.8,73.7,0,0,0,15.2,1,1,1,0,72.2,Alta
+74,M,Pós-graduação,Sudeste,>=8 SM,1,Smartphone,9.0,37.6,75.3,75.1,0,0,0,0.0,1,0,0,0,64.0,Média
+82,F,Médio,Rural,2-4 SM,1,Nenhum,11.0,65.2,28.4,72.4,1,0,0,4.1,1,1,0,0,95.8,Alta
+65,F,Técnico,Sudeste,4-8 SM,1,Smartphone,6.0,55.4,58.9,79.4,1,0,0,8.3,1,1,1,0,67.7,Alta
+76,F,Médio,Sudeste,<=1 SM,1,Smartphone,11.0,6.5,83.9,25.6,0,0,0,13.4,1,1,1,1,59.9,Média
+56,F,Médio,Sul,1-2 SM,1,Smartphone,0.0,77.4,44.1,32.0,1,0,0,5.9,1,0,1,0,61.4,Média
+67,M,Médio,Nordeste,1-2 SM,1,Nenhum,6.0,57.5,57.0,47.3,0,0,0,4.0,1,0,0,0,78.5,Alta
+70,M,Fundamental,Sudeste,2-4 SM,0,Smartphone,6.0,40.3,34.8,59.4,0,0,0,13.4,1,1,0,0,84.9,Alta
+89,M,Fundamental,Sudeste,1-2 SM,1,Smartphone,3.0,72.9,84.7,69.8,0,0,0,6.2,1,1,0,0,37.8,Média
+62,F,Superior,Norte,<=1 SM,1,Smartphone,16.0,42.8,55.6,68.5,1,1,0,12.3,0,0,0,0,91.1,Alta
+64,M,Técnico,Sudeste,1-2 SM,1,Nenhum,6.0,42.6,57.8,84.3,0,0,0,2.3,1,1,0,0,85.8,Alta
+69,F,Superior,Nordeste,1-2 SM,1,Smartphone,4.0,61.5,80.0,85.0,0,0,0,0.9,1,0,0,1,52.9,Média
+89,F,Fundamental,Nordeste,1-2 SM,1,Smartphone+PC/Tablet,6.0,87.1,68.2,44.6,1,0,0,13.5,1,1,0,1,43.9,Média
+84,M,Médio,Sudeste,1-2 SM,1,Smartphone,0.0,84.2,42.1,66.8,0,1,0,10.5,1,1,0,1,56.3,Média
+56,Outro/Prefiro não dizer,Médio,Nordeste,1-2 SM,1,Smartphone,3.0,61.5,46.0,45.0,0,1,0,14.5,1,0,1,0,66.1,Alta
+63,M,Superior,Sudeste,2-4 SM,0,Smartphone,10.0,63.3,65.4,58.2,1,0,0,5.8,1,1,0,1,77.2,Alta
+83,F,Superior,Sul,1-2 SM,1,Smartphone,3.0,69.2,46.4,68.4,0,0,0,4.2,1,0,0,1,58.0,Média
+57,M,Médio,Sudeste,1-2 SM,1,Smartphone+PC/Tablet,3.0,32.4,21.0,0.0,0,0,0,17.2,1,1,1,0,65.6,Alta
+84,F,Superior,Nordeste,2-4 SM,1,Smartphone,11.0,66.6,56.1,100.0,0,0,0,0.0,1,1,0,0,56.4,Média
+64,M,Fundamental,Nordeste,4-8 SM,1,Smartphone,11.0,41.8,31.8,73.3,1,0,0,16.5,0,1,1,1,84.8,Alta
+87,M,Médio,Nordeste,1-2 SM,1,Nenhum,8.0,60.7,84.5,50.1,0,0,1,16.9,1,1,1,1,68.2,Alta
+65,F,Fundamental,Nordeste,2-4 SM,1,Nenhum,4.0,50.9,60.0,100.0,0,1,0,14.2,1,1,1,0,91.3,Alta
+70,F,Médio,Sul,>=8 SM,1,Smartphone+PC/Tablet,5.0,64.0,41.6,55.1,0,1,0,4.9,1,1,0,0,64.9,Média
+78,F,Superior,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,3.0,57.1,45.1,64.7,0,0,1,4.1,1,1,1,0,66.4,Alta
+59,Outro/Prefiro não dizer,Pós-graduação,Nordeste,4-8 SM,1,Smartphone+PC/Tablet,2.0,0.0,24.9,52.3,1,1,0,7.7,0,0,1,0,100.0,Alta
+74,F,Médio,Sul,4-8 SM,1,Smartphone+PC/Tablet,2.0,58.2,38.3,95.0,0,0,0,1.2,1,1,0,1,65.4,Alta
+72,M,Técnico,Centro-Oeste,<=1 SM,1,Nenhum,4.0,66.6,74.3,59.9,0,0,0,3.2,1,0,0,0,70.4,Alta
+82,M,Superior,Norte,1-2 SM,1,Smartphone+PC/Tablet,2.0,63.0,94.9,65.0,0,1,0,12.9,0,1,0,1,50.6,Média
+89,M,Pós-graduação,Nordeste,2-4 SM,1,Smartphone,0.0,53.2,69.3,86.1,0,0,0,12.9,0,1,1,1,57.1,Média
+78,F,Técnico,Sudeste,>=8 SM,1,Smartphone+PC/Tablet,7.0,84.6,55.4,73.7,0,0,0,2.7,0,1,0,0,48.1,Média
+69,M,Médio,Sudeste,2-4 SM,1,Nenhum,7.0,60.6,49.7,60.9,1,0,0,13.1,1,1,0,1,86.9,Alta
+69,F,Técnico,Nordeste,<=1 SM,0,Smartphone,13.0,62.9,40.7,84.2,0,0,0,11.7,1,1,1,1,76.7,Alta
+69,M,Médio,Sul,2-4 SM,1,Smartphone,3.0,73.8,92.0,100.0,0,0,0,18.1,1,0,1,0,42.0,Média
+83,M,Pós-graduação,Sul,<=1 SM,0,Smartphone+PC/Tablet,7.0,61.5,53.8,68.3,0,0,0,12.4,0,1,0,0,74.3,Alta
+66,M,Médio,Sul,4-8 SM,1,Smartphone,7.0,38.8,93.0,64.3,0,0,0,15.4,1,1,0,1,47.6,Média
+60,M,Superior,Nordeste,2-4 SM,1,Smartphone,5.0,11.1,80.7,65.4,0,0,0,11.9,1,1,0,0,65.2,Alta
+66,F,Fundamental,Norte,2-4 SM,1,Smartphone,9.0,46.4,27.4,88.2,0,0,0,14.9,0,0,1,0,79.8,Alta
+55,F,Médio,Sul,4-8 SM,0,Smartphone+PC/Tablet,9.0,68.7,45.7,50.0,0,0,0,1.3,1,1,1,0,69.3,Alta
+58,F,Superior,Nordeste,2-4 SM,1,Smartphone,7.0,48.6,45.6,56.4,1,0,0,8.3,1,0,1,0,76.9,Alta
+58,F,Técnico,Sudeste,2-4 SM,1,Smartphone,5.0,69.4,55.6,31.3,1,0,0,8.8,1,1,0,1,55.2,Média
+82,F,Médio,Sudeste,4-8 SM,0,Smartphone,5.0,57.7,56.0,38.3,0,0,0,7.5,1,0,0,0,72.7,Alta
+80,F,Pós-graduação,Nordeste,4-8 SM,1,Smartphone,1.0,78.2,100.0,51.6,1,1,0,11.7,1,0,0,1,53.2,Média
+79,F,Superior,Sudeste,4-8 SM,0,Smartphone,3.0,49.7,38.7,60.9,0,0,1,12.8,1,0,0,0,92.7,Alta
+71,F,Médio,Sul,<=1 SM,1,Smartphone,4.0,63.4,60.9,97.4,0,1,0,11.4,1,1,1,1,63.5,Média
+80,F,Técnico,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,2.0,64.1,67.5,72.7,1,0,0,7.9,1,1,1,0,59.9,Média
+60,M,Médio,Sudeste,1-2 SM,1,Smartphone+PC/Tablet,8.0,82.0,57.0,43.8,0,0,0,4.6,0,1,0,1,43.8,Média
+86,M,Técnico,Sul,4-8 SM,1,Smartphone+PC/Tablet,11.0,24.3,58.9,47.4,0,1,0,15.6,1,1,1,1,73.5,Alta
+72,F,Médio,Sudeste,2-4 SM,0,Smartphone,2.0,46.7,39.2,89.5,1,0,0,11.1,1,1,0,0,97.4,Alta
+87,F,Médio,Sudeste,1-2 SM,0,Smartphone,7.0,70.3,58.8,84.5,0,0,0,2.9,1,0,1,1,73.9,Alta
+60,F,Pós-graduação,Sul,1-2 SM,0,Smartphone,2.0,82.8,65.7,62.6,1,0,1,7.8,1,0,0,0,81.6,Alta
+72,M,Pós-graduação,Sudeste,1-2 SM,1,Smartphone+PC/Tablet,5.0,59.3,62.6,53.1,0,0,0,0.0,1,1,1,1,50.4,Média
+79,F,Superior,Nordeste,2-4 SM,1,Smartphone,3.0,49.7,66.7,84.5,1,1,1,9.2,1,1,0,1,86.1,Alta
+72,F,Pós-graduação,Nordeste,1-2 SM,1,Smartphone,8.0,68.6,81.0,42.1,0,0,1,7.8,0,1,1,0,48.5,Média
+70,F,Superior,Nordeste,<=1 SM,1,Smartphone,3.0,70.6,72.9,69.8,0,1,0,5.6,1,0,1,0,58.0,Média
+60,F,Superior,Sudeste,4-8 SM,0,Smartphone,10.0,48.5,58.2,100.0,0,0,1,18.5,1,1,1,0,86.1,Alta
+68,F,Superior,Sudeste,4-8 SM,1,Smartphone,5.0,60.9,37.1,66.1,1,1,0,2.1,1,0,1,1,87.1,Alta
+63,M,Médio,Sudeste,1-2 SM,0,Smartphone,3.0,76.2,46.8,46.5,0,1,0,13.2,1,1,0,1,72.6,Alta
+65,M,Médio,Centro-Oeste,1-2 SM,0,Smartphone,1.0,89.0,53.3,70.2,1,0,0,22.1,1,0,1,0,73.4,Alta
+78,M,Médio,Sudeste,>=8 SM,0,Smartphone,7.0,68.4,61.3,52.6,0,0,0,15.5,1,1,0,0,61.6,Média
+77,M,Técnico,Sul,2-4 SM,1,Nenhum,10.0,55.8,48.9,34.1,0,0,0,8.8,1,1,1,0,74.1,Alta
+76,M,Médio,Nordeste,2-4 SM,1,Smartphone+PC/Tablet,7.0,54.0,41.1,76.0,0,0,1,2.2,0,1,0,0,75.3,Alta
+67,F,Médio,Sudeste,1-2 SM,1,Smartphone,15.0,65.0,36.8,84.4,0,0,0,0.8,1,0,0,0,66.3,Alta
+88,M,Técnico,Sudeste,1-2 SM,1,Feature phone,12.0,52.9,28.9,55.8,1,1,0,6.5,0,1,1,0,90.1,Alta
+58,M,Médio,Sudeste,<=1 SM,0,Smartphone+PC/Tablet,5.0,58.4,53.0,54.5,0,1,0,4.9,0,0,0,1,90.4,Alta
+66,F,Médio,Nordeste,2-4 SM,1,Smartphone,5.0,36.0,32.0,42.8,0,0,0,4.7,1,1,1,0,69.1,Alta
+59,M,Superior,Sudeste,<=1 SM,1,Smartphone,8.0,78.3,40.0,59.0,0,0,0,7.0,1,0,0,1,54.2,Média
+66,F,Superior,Rural,<=1 SM,1,Smartphone,3.0,34.5,50.3,50.8,0,0,0,8.4,1,0,1,0,68.8,Alta
+88,F,Fundamental,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,11.0,47.2,34.3,41.8,0,0,1,11.9,1,1,1,0,69.6,Alta
+67,M,Fundamental,Sul,>=8 SM,1,Smartphone,7.0,56.8,63.5,99.8,1,0,0,1.6,1,0,1,1,74.9,Alta
+86,M,Médio,Rural,4-8 SM,1,Smartphone,7.0,90.8,69.6,71.3,0,0,0,4.9,1,0,0,0,40.5,Média
+72,M,Superior,Centro-Oeste,2-4 SM,0,Nenhum,9.0,47.4,47.7,73.4,0,0,0,8.0,1,1,0,0,100.0,Alta
+79,F,Superior,Sudeste,2-4 SM,1,Smartphone,13.0,43.0,49.6,79.7,0,0,0,7.8,1,1,0,1,64.7,Média
+71,F,Fundamental,Sudeste,2-4 SM,1,Smartphone,7.0,45.1,66.1,77.4,0,0,1,20.0,1,1,0,1,63.2,Média
+64,M,Superior,Rural,1-2 SM,1,Smartphone,6.0,84.9,44.9,53.7,0,0,0,10.4,1,0,1,1,48.1,Média
+81,F,Fundamental,Norte,2-4 SM,1,Smartphone,12.0,4.4,43.7,67.5,0,0,0,0.0,1,1,0,0,83.9,Alta
+88,M,Médio,Sudeste,2-4 SM,0,Smartphone+PC/Tablet,10.0,37.0,77.3,56.6,0,0,0,11.5,0,1,0,0,75.5,Alta
+64,F,Pós-graduação,Sul,2-4 SM,1,Smartphone,5.0,100.0,72.0,70.8,1,1,1,12.3,1,0,0,0,63.9,Média
+82,F,Médio,Nordeste,4-8 SM,1,Smartphone,6.0,65.6,67.2,68.8,1,1,0,8.2,1,1,1,1,68.6,Alta
+64,F,Fundamental,Sudeste,>=8 SM,1,Smartphone+PC/Tablet,7.0,35.1,72.7,54.3,1,0,0,1.7,1,0,0,1,74.6,Alta
+80,M,Médio,Centro-Oeste,<=1 SM,0,Smartphone,7.0,54.2,23.4,35.4,1,0,0,19.5,0,1,0,0,93.8,Alta
+82,F,Técnico,Rural,1-2 SM,1,Smartphone+PC/Tablet,1.0,56.2,80.0,64.9,0,0,0,2.6,1,1,1,1,46.9,Média
+70,F,Pós-graduação,Sul,1-2 SM,1,Smartphone+PC/Tablet,0.0,70.2,63.7,57.9,1,0,0,13.0,1,1,0,0,55.2,Média
+80,F,Pós-graduação,Nordeste,1-2 SM,1,Smartphone+PC/Tablet,2.0,88.1,74.2,24.2,0,0,0,10.2,1,1,1,0,27.0,Baixa
+64,F,Fundamental,Sudeste,1-2 SM,0,Smartphone,2.0,62.0,63.6,72.2,0,0,0,12.6,1,0,0,0,72.2,Alta
+57,F,Fundamental,Centro-Oeste,1-2 SM,1,Smartphone,3.0,45.3,57.8,81.3,0,0,1,19.2,1,0,1,0,71.7,Alta
+58,M,Superior,Sudeste,4-8 SM,1,Feature phone,9.0,69.2,52.3,100.0,0,0,0,12.4,1,1,1,1,54.1,Média
+70,F,Médio,Sudeste,2-4 SM,0,Smartphone,5.0,42.4,63.2,54.2,1,0,1,5.6,1,1,1,1,94.8,Alta
+86,M,Superior,Sul,4-8 SM,1,Smartphone+PC/Tablet,7.0,36.4,51.7,51.2,1,0,0,15.6,1,1,1,0,73.1,Alta
+59,M,Superior,Norte,<=1 SM,1,Smartphone,1.0,23.3,71.8,39.8,0,0,0,5.2,1,0,1,0,65.3,Alta
+70,F,Fundamental,Nordeste,<=1 SM,0,Smartphone+PC/Tablet,4.0,26.8,30.0,66.2,0,0,0,10.0,1,1,0,0,94.3,Alta
+79,F,Superior,Sudeste,1-2 SM,0,Feature phone,8.0,38.9,47.8,66.0,0,0,0,1.2,0,1,1,0,88.5,Alta
+62,M,Fundamental,Sudeste,<=1 SM,1,Smartphone,8.0,33.8,91.8,45.8,0,0,0,2.8,0,0,1,0,59.0,Média
+80,F,Médio,Sudeste,1-2 SM,0,Smartphone,3.0,60.6,46.4,58.5,1,0,0,9.3,1,1,1,0,84.4,Alta
+65,F,Técnico,Norte,>=8 SM,1,Smartphone,7.0,33.4,52.9,22.4,1,1,0,11.2,0,1,1,0,84.6,Alta
+83,M,Médio,Centro-Oeste,1-2 SM,1,Feature phone,15.0,0.0,42.0,80.5,0,1,0,0.0,1,1,0,0,98.4,Alta
+75,Outro/Prefiro não dizer,Superior,Sul,1-2 SM,1,Feature phone,6.0,36.2,62.7,46.6,0,0,0,12.0,1,1,0,0,57.3,Média
+74,M,Técnico,Norte,2-4 SM,1,Smartphone+PC/Tablet,3.0,46.5,44.5,61.3,0,1,1,4.1,0,1,0,1,84.9,Alta
+61,F,Pós-graduação,Centro-Oeste,2-4 SM,1,Smartphone,5.0,44.1,53.8,33.5,0,0,0,16.7,1,1,0,0,54.0,Média
+71,M,Pós-graduação,Sul,2-4 SM,1,Nenhum,6.0,82.4,71.4,50.4,0,0,0,6.9,1,1,0,0,57.1,Média
+84,M,Médio,Norte,1-2 SM,1,Nenhum,5.0,44.0,45.1,56.4,0,0,0,2.3,1,1,0,0,85.4,Alta
+55,F,Fundamental,Sudeste,4-8 SM,1,Smartphone,6.0,70.9,70.4,61.8,0,0,0,9.5,1,0,1,1,46.8,Média
+81,M,Superior,Nordeste,<=1 SM,1,Feature phone,0.0,54.7,71.0,71.6,0,0,0,3.5,1,0,1,0,56.6,Média
+72,F,Pós-graduação,Sul,1-2 SM,1,Smartphone,2.0,54.2,74.9,90.8,0,1,0,16.6,1,1,1,0,60.7,Média
+80,F,Médio,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,5.0,40.0,59.4,76.7,1,0,0,9.0,1,0,1,1,78.9,Alta
+78,F,Médio,Sul,4-8 SM,1,Smartphone,5.0,53.9,100.0,81.2,0,0,0,8.1,1,0,0,1,47.3,Média
+70,F,Médio,Nordeste,1-2 SM,0,Smartphone,4.0,41.2,74.9,90.9,1,0,0,12.6,1,1,0,0,87.3,Alta
+65,F,Fundamental,Sudeste,2-4 SM,1,Feature phone,5.0,58.1,62.5,73.4,0,0,0,3.0,1,1,1,0,53.4,Média
+76,M,Superior,Sudeste,<=1 SM,0,Smartphone,6.0,50.7,42.1,61.3,0,0,1,1.3,1,0,1,1,93.4,Alta
+59,Outro/Prefiro não dizer,Médio,Nordeste,1-2 SM,1,Smartphone+PC/Tablet,10.0,38.0,55.3,82.2,0,0,0,11.5,1,1,1,0,64.6,Média
+75,M,Superior,Nordeste,<=1 SM,1,Smartphone,6.0,72.9,81.2,83.5,0,0,0,2.4,1,1,1,0,41.8,Média
+58,M,Superior,Norte,2-4 SM,1,Smartphone+PC/Tablet,8.0,62.7,86.1,75.0,0,1,0,2.4,1,1,1,0,53.4,Média
+77,Outro/Prefiro não dizer,Superior,Rural,1-2 SM,0,Smartphone,4.0,46.9,82.1,32.9,0,0,0,14.0,1,1,1,0,61.3,Média
+77,F,Médio,Sudeste,2-4 SM,1,Smartphone,8.0,57.6,70.3,45.2,0,0,0,12.2,1,1,1,1,44.8,Média
+57,F,Médio,Sudeste,<=1 SM,1,Smartphone,8.0,53.5,35.7,56.5,1,1,0,1.5,1,0,1,1,89.6,Alta
+81,F,Superior,Sudeste,4-8 SM,1,Smartphone,9.0,39.4,65.3,77.6,0,0,0,5.3,1,1,0,0,61.0,Média
+69,F,Superior,Sudeste,4-8 SM,1,Smartphone+PC/Tablet,9.0,56.3,35.9,61.6,0,0,0,3.6,0,1,0,0,65.6,Alta
+82,M,Médio,Sudeste,<=1 SM,1,Feature phone,8.0,43.8,31.7,84.7,1,0,0,19.7,0,1,0,0,85.0,Alta
+56,F,Superior,Sudeste,<=1 SM,1,Smartphone+PC/Tablet,6.0,38.0,61.1,88.3,0,0,1,14.4,1,1,1,1,70.9,Alta
+61,F,Fundamental,Sudeste,<=1 SM,0,Smartphone+PC/Tablet,7.0,25.8,65.9,86.0,0,0,0,6.5,1,1,1,0,85.9,Alta
+72,F,Superior,Nordeste,4-8 SM,1,Smartphone,10.0,48.5,72.4,86.1,1,0,0,12.5,1,0,0,0,71.2,Alta
+61,F,Fundamental,Sul,1-2 SM,0,Smartphone,3.0,65.2,65.5,41.3,0,0,0,0.9,1,0,0,1,67.8,Alta
+66,M,Fundamental,Sudeste,2-4 SM,1,Smartphone,3.0,42.5,66.0,71.7,0,0,0,5.0,1,1,1,0,58.5,Média
+78,F,Médio,Centro-Oeste,1-2 SM,1,Smartphone,7.0,100.0,40.3,49.8,0,0,0,9.6,1,0,0,0,42.5,Média
+60,F,Fundamental,Sudeste,4-8 SM,1,Smartphone+PC/Tablet,8.0,70.9,55.2,29.0,0,0,1,11.7,1,1,1,0,49.8,Média
+78,F,Fundamental,Nordeste,2-4 SM,0,Smartphone,3.0,78.5,31.4,56.3,1,0,0,8.4,1,1,0,1,81.5,Alta
+58,F,Fundamental,Rural,2-4 SM,0,Smartphone+PC/Tablet,6.0,69.3,22.9,88.5,0,0,0,10.5,1,1,0,0,81.0,Alta
+61,M,Médio,Sul,>=8 SM,1,Smartphone,6.0,88.4,69.6,71.2,0,0,0,9.5,0,0,0,1,44.7,Média
+75,F,Superior,Sul,1-2 SM,1,Smartphone,0.0,40.8,44.2,100.0,0,0,0,8.0,0,1,0,1,74.6,Alta
+82,F,Fundamental,Centro-Oeste,4-8 SM,1,Smartphone,5.0,8.9,71.8,65.5,0,1,0,7.2,0,0,0,1,89.2,Alta
+60,F,Técnico,Nordeste,<=1 SM,1,Smartphone,5.0,47.0,75.8,100.0,0,0,1,6.4,1,1,0,0,65.0,Alta
+65,M,Superior,Nordeste,2-4 SM,0,Smartphone+PC/Tablet,5.0,65.0,46.5,65.6,0,0,0,10.4,1,0,0,1,76.2,Alta
+87,M,Fundamental,Norte,4-8 SM,1,Smartphone,12.0,57.7,67.0,62.4,1,0,0,11.5,1,1,0,0,60.6,Média
+89,M,Fundamental,Nordeste,2-4 SM,1,Smartphone+PC/Tablet,1.0,60.0,45.8,36.4,0,0,0,10.2,0,1,1,1,55.4,Média
+75,M,Superior,Norte,2-4 SM,1,Smartphone+PC/Tablet,3.0,78.8,25.6,84.2,1,0,0,1.9,1,1,0,1,70.8,Alta
+70,M,Superior,Rural,1-2 SM,1,Smartphone+PC/Tablet,0.0,61.9,59.1,52.0,0,1,0,3.0,1,1,0,0,59.7,Média
+67,F,Médio,Norte,1-2 SM,1,Smartphone,4.0,69.4,49.0,49.1,0,0,0,11.4,1,0,0,1,52.7,Média
+76,F,Superior,Nordeste,1-2 SM,1,Smartphone+PC/Tablet,4.0,38.1,49.5,87.6,0,0,0,17.8,1,1,1,0,66.1,Alta
+75,F,Fundamental,Sul,2-4 SM,1,Smartphone,4.0,35.3,90.6,85.2,1,0,0,9.9,0,1,1,0,70.2,Alta
+65,F,Médio,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,10.0,84.1,31.1,84.6,0,1,0,6.5,1,1,1,0,63.7,Média
+55,M,Superior,Sudeste,1-2 SM,1,Feature phone,9.0,56.8,63.5,54.8,0,0,1,10.3,1,0,1,0,62.4,Média
+60,F,Médio,Sudeste,1-2 SM,0,Smartphone,6.0,43.8,40.1,61.0,1,0,0,2.2,1,1,0,1,96.0,Alta
+88,M,Superior,Sul,1-2 SM,1,Smartphone,5.0,43.8,72.4,60.8,0,0,0,16.9,1,1,1,1,51.7,Média
+69,M,Médio,Sudeste,1-2 SM,1,Smartphone,10.0,43.3,62.1,77.7,0,1,0,10.1,1,1,0,0,69.4,Alta
+71,F,Superior,Sudeste,<=1 SM,1,Smartphone,6.0,42.2,63.4,93.1,0,0,0,5.0,1,1,1,1,62.7,Média
+71,M,Médio,Sudeste,4-8 SM,1,Smartphone+PC/Tablet,3.0,31.9,40.9,69.4,0,1,0,8.0,1,0,0,1,86.1,Alta
+82,M,Médio,Sudeste,2-4 SM,1,Smartphone,0.0,28.0,44.0,100.0,0,1,0,5.8,0,1,0,1,90.8,Alta
+57,M,Médio,Centro-Oeste,<=1 SM,1,Smartphone,4.0,51.5,72.8,79.9,0,0,0,16.9,1,1,1,0,51.0,Média
+57,F,Médio,Sudeste,2-4 SM,1,Nenhum,9.0,44.3,87.1,57.3,1,1,0,7.8,1,1,1,0,91.6,Alta
+64,F,Superior,Nordeste,4-8 SM,1,Smartphone+PC/Tablet,15.0,74.9,65.2,78.6,0,0,0,9.9,1,1,1,1,44.3,Média
+72,F,Fundamental,Sudeste,1-2 SM,1,Smartphone+PC/Tablet,6.0,60.3,41.7,96.1,0,0,0,12.4,1,0,0,0,66.2,Alta
+78,F,Fundamental,Nordeste,1-2 SM,0,Smartphone,3.0,59.8,62.8,100.0,1,0,0,4.6,1,1,0,0,86.2,Alta
+72,F,Fundamental,Nordeste,<=1 SM,1,Smartphone,1.0,41.6,98.3,85.7,0,1,0,10.2,1,0,0,0,63.7,Média
+70,M,Fundamental,Nordeste,<=1 SM,0,Smartphone+PC/Tablet,8.0,52.8,58.7,62.5,0,0,0,10.6,1,1,0,0,71.9,Alta
+87,M,Superior,Sul,4-8 SM,1,Smartphone+PC/Tablet,0.0,61.5,81.9,57.7,0,0,0,0.0,1,1,1,0,43.3,Média
+60,F,Médio,Centro-Oeste,>=8 SM,0,Smartphone,8.0,67.9,44.4,73.5,0,0,0,10.5,1,1,0,0,71.8,Alta
+75,F,Pós-graduação,Sudeste,<=1 SM,1,Smartphone,9.0,53.3,56.3,95.5,0,0,0,8.7,1,1,1,1,59.9,Média
+73,F,Fundamental,Sul,2-4 SM,0,Smartphone+PC/Tablet,8.0,74.4,67.5,70.7,1,1,0,9.8,1,1,0,1,82.5,Alta
+71,F,Técnico,Norte,<=1 SM,1,Smartphone,5.0,55.1,63.8,71.1,1,0,1,9.2,1,0,1,0,77.7,Alta
+83,M,Médio,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,8.0,69.3,44.0,63.0,0,0,0,10.6,1,1,1,0,51.8,Média
+64,F,Médio,Nordeste,4-8 SM,1,Smartphone,7.0,46.2,43.2,55.4,0,1,0,17.0,1,1,1,1,70.0,Alta
+88,F,Superior,Nordeste,1-2 SM,1,Smartphone+PC/Tablet,3.0,22.4,73.8,58.8,1,1,0,1.9,1,1,0,0,85.5,Alta
+66,M,Pós-graduação,Sudeste,<=1 SM,1,Feature phone,13.0,59.8,77.3,64.7,0,0,0,6.9,1,1,0,1,45.4,Média
+74,F,Superior,Sul,2-4 SM,1,Nenhum,5.0,68.1,82.7,96.4,1,0,0,13.0,0,0,0,0,86.3,Alta
+73,F,Médio,Nordeste,>=8 SM,1,Smartphone+PC/Tablet,9.0,65.4,87.7,57.2,0,0,0,11.9,1,1,1,0,37.1,Média
+84,M,Médio,Sudeste,1-2 SM,1,Smartphone+PC/Tablet,0.0,62.6,59.3,63.1,0,0,0,11.8,1,1,1,0,49.2,Média
+70,M,Técnico,Nordeste,1-2 SM,1,Smartphone+PC/Tablet,11.0,48.7,51.7,44.7,1,0,0,25.5,0,1,0,0,68.6,Alta
+64,Outro/Prefiro não dizer,Médio,Sudeste,<=1 SM,1,Smartphone+PC/Tablet,12.0,40.5,80.0,76.3,0,0,0,12.7,1,1,1,1,53.7,Média
+55,M,Superior,Sudeste,2-4 SM,0,Smartphone,6.0,64.9,69.1,89.3,0,1,0,15.8,1,1,1,0,75.8,Alta
+67,F,Técnico,Sudeste,2-4 SM,1,Smartphone,8.0,62.7,40.3,94.5,1,0,0,7.2,1,0,1,1,78.4,Alta
+83,M,Técnico,Sudeste,4-8 SM,1,Feature phone,8.0,44.9,39.4,66.1,0,1,0,3.0,0,1,0,1,80.3,Alta
+55,M,Superior,Nordeste,4-8 SM,1,Smartphone,3.0,75.0,65.4,73.5,0,1,0,7.1,1,0,1,1,59.0,Média
+86,M,Superior,Sudeste,4-8 SM,1,Smartphone,8.0,39.1,54.0,58.9,0,0,0,13.3,0,0,0,1,69.7,Alta
+73,M,Fundamental,Sudeste,4-8 SM,0,Smartphone+PC/Tablet,3.0,44.5,56.6,72.6,0,0,0,11.4,0,0,0,0,86.8,Alta
+59,M,Fundamental,Sudeste,1-2 SM,1,Nenhum,4.0,84.5,75.2,68.3,0,0,0,11.4,1,1,1,0,56.6,Média
+65,M,Técnico,Norte,2-4 SM,1,Feature phone,11.0,70.6,69.9,63.2,0,0,0,7.7,1,1,1,1,42.7,Média
+74,F,Médio,Sudeste,1-2 SM,0,Smartphone,10.0,48.6,79.6,64.8,0,0,0,6.8,1,0,1,0,72.6,Alta
+66,M,Médio,Sudeste,1-2 SM,0,Smartphone,3.0,60.2,24.2,71.0,1,0,0,7.9,1,0,0,0,99.5,Alta
+58,F,Médio,Norte,>=8 SM,1,Smartphone,3.0,57.8,61.3,56.1,0,0,1,13.3,1,1,0,0,57.3,Média
+78,M,Superior,Nordeste,2-4 SM,1,Smartphone,3.0,5.6,68.8,57.2,0,0,1,14.0,1,0,1,0,83.2,Alta
+78,M,Superior,Sudeste,>=8 SM,1,Smartphone,9.0,38.7,31.0,96.1,0,0,0,3.0,0,1,1,1,80.5,Alta
+59,M,Técnico,Sudeste,1-2 SM,1,Smartphone,2.0,54.1,45.9,100.0,1,0,0,13.6,1,0,0,0,79.9,Alta
+64,Outro/Prefiro não dizer,Médio,Nordeste,2-4 SM,1,Smartphone+PC/Tablet,7.0,48.6,42.7,37.9,0,0,0,5.1,1,1,0,1,58.9,Média
+63,F,Médio,Sul,2-4 SM,1,Smartphone,9.0,59.4,57.4,36.8,1,0,0,11.8,1,1,1,1,59.3,Média
+78,M,Médio,Sudeste,<=1 SM,1,Smartphone,6.0,75.3,84.7,42.9,0,1,0,7.8,1,1,1,0,42.3,Média
+80,M,Médio,Sudeste,1-2 SM,1,Smartphone,10.0,49.2,91.4,59.9,0,1,0,18.4,1,1,0,1,52.2,Média
+80,F,Técnico,Sudeste,2-4 SM,0,Feature phone,5.0,36.0,43.2,79.9,1,1,0,6.5,1,0,1,0,100.0,Alta
+87,F,Superior,Sudeste,<=1 SM,1,Smartphone,5.0,60.8,66.0,73.8,1,0,0,10.1,1,0,1,0,66.6,Alta
+81,F,Fundamental,Sudeste,>=8 SM,1,Smartphone+PC/Tablet,2.0,49.1,66.5,65.4,0,0,0,12.6,1,0,0,0,57.9,Média
+66,M,Fundamental,Sul,<=1 SM,1,Smartphone,10.0,52.2,63.6,72.6,0,0,0,3.8,1,0,1,0,60.4,Média
+58,F,Médio,Sudeste,1-2 SM,1,Smartphone,3.0,49.7,63.8,48.2,0,0,0,8.6,1,1,1,0,51.8,Média
+76,Outro/Prefiro não dizer,Superior,Sudeste,4-8 SM,1,Smartphone,7.0,95.4,62.2,57.1,0,0,1,7.4,1,0,1,0,46.4,Média
+87,F,Técnico,Sudeste,<=1 SM,1,Smartphone+PC/Tablet,6.0,14.7,85.7,61.6,1,1,0,5.9,1,0,1,0,89.5,Alta
+89,M,Fundamental,Sudeste,4-8 SM,1,Smartphone,2.0,48.0,75.7,30.3,1,0,0,6.4,1,0,1,0,63.2,Média
+63,F,Superior,Norte,2-4 SM,0,Smartphone,4.0,54.9,39.0,38.8,0,0,0,15.7,1,1,1,1,73.3,Alta
+63,M,Médio,Sudeste,<=1 SM,1,Smartphone+PC/Tablet,12.0,40.9,70.5,39.6,0,1,0,5.4,1,1,0,0,62.7,Média
+56,F,Médio,Sudeste,2-4 SM,1,Smartphone,7.0,71.2,72.2,77.3,0,0,0,12.4,1,1,1,1,42.8,Média
+59,M,Pós-graduação,Sul,2-4 SM,1,Smartphone,2.0,69.6,62.4,66.9,0,0,0,10.9,1,1,0,1,45.7,Média
+74,M,Fundamental,Sudeste,4-8 SM,1,Smartphone,7.0,54.1,76.2,74.2,1,1,1,0.6,1,1,0,1,81.0,Alta
+74,M,Médio,Sudeste,4-8 SM,1,Feature phone,5.0,50.1,60.2,25.2,0,0,0,12.1,1,1,1,0,48.7,Média
+67,M,Técnico,Rural,2-4 SM,0,Smartphone+PC/Tablet,20.0,53.0,60.4,32.3,0,0,0,0.5,1,1,1,1,68.8,Alta
+65,F,Médio,Sudeste,2-4 SM,1,Smartphone,7.0,53.1,59.1,75.3,0,0,0,12.8,1,1,1,1,55.2,Média
+84,F,Superior,Nordeste,1-2 SM,1,Smartphone,4.0,53.6,22.7,6.4,1,1,1,6.0,1,0,1,1,93.7,Alta
+71,F,Médio,Nordeste,2-4 SM,1,Smartphone,12.0,51.6,55.6,86.5,0,0,0,9.1,1,1,1,1,59.5,Média
+83,F,Fundamental,Norte,>=8 SM,1,Nenhum,0.0,59.5,45.6,25.5,0,0,1,1.2,0,0,0,0,90.8,Alta
+88,M,Médio,Norte,2-4 SM,1,Smartphone+PC/Tablet,6.0,68.6,36.8,78.9,0,0,0,9.7,1,0,1,0,62.1,Média
+66,M,Médio,Sudeste,2-4 SM,0,Smartphone,14.0,32.9,81.4,44.2,0,0,0,14.6,1,1,1,1,69.4,Alta
+62,M,Fundamental,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,6.0,36.1,65.6,83.0,0,1,0,4.2,1,0,0,0,78.4,Alta
+88,M,Fundamental,Sudeste,4-8 SM,1,Smartphone,0.0,23.5,56.5,100.0,0,0,0,5.4,1,1,1,0,74.6,Alta
+77,M,Superior,Norte,>=8 SM,1,Smartphone,4.0,70.6,47.4,16.5,0,0,0,11.7,1,1,1,1,42.8,Média
+65,M,Médio,Sudeste,1-2 SM,1,Nenhum,12.0,59.5,62.0,75.9,0,0,1,11.9,1,1,0,1,81.5,Alta
+76,F,Médio,Nordeste,1-2 SM,1,Smartphone+PC/Tablet,8.0,64.1,73.9,25.8,1,0,0,0.0,1,1,1,0,52.2,Média
+73,F,Fundamental,Sul,2-4 SM,1,Feature phone,3.0,29.3,42.9,70.5,0,0,0,21.1,1,1,0,0,69.2,Alta
+86,M,Médio,Nordeste,2-4 SM,1,Nenhum,3.0,87.1,56.9,57.9,0,0,1,12.2,1,1,0,0,68.1,Alta
+63,M,Médio,Sudeste,2-4 SM,1,Smartphone,4.0,44.0,71.8,64.6,0,0,1,13.2,1,0,0,0,66.1,Alta
+89,F,Técnico,Nordeste,<=1 SM,1,Smartphone,7.0,58.0,24.1,43.8,1,0,1,8.1,1,0,0,1,86.4,Alta
+87,F,Médio,Sudeste,1-2 SM,1,Smartphone,11.0,70.4,56.0,77.6,1,1,1,0.0,1,1,0,1,81.4,Alta
+61,M,Superior,Sudeste,2-4 SM,1,Smartphone,10.0,37.2,49.7,33.0,1,1,0,13.0,1,1,1,0,81.2,Alta
+60,F,Pós-graduação,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,8.0,45.2,54.7,86.8,0,0,1,5.6,0,0,0,0,80.4,Alta
+73,F,Fundamental,Nordeste,2-4 SM,1,Smartphone,1.0,58.2,48.5,53.8,0,0,0,12.3,1,1,1,1,53.4,Média
+56,M,Fundamental,Sul,2-4 SM,0,Smartphone,1.0,100.0,59.3,33.9,0,0,0,7.7,1,1,1,1,46.8,Média
+65,M,Fundamental,Sudeste,2-4 SM,1,Smartphone,8.0,60.4,89.7,93.9,0,0,0,10.4,1,0,0,0,49.4,Média
+70,F,Técnico,Sudeste,4-8 SM,1,Smartphone,1.0,83.9,51.5,60.7,0,0,0,4.4,0,0,0,0,52.4,Média
+88,M,Fundamental,Sul,2-4 SM,1,Smartphone,5.0,76.7,62.0,100.0,0,1,0,14.2,1,1,1,0,57.0,Média
+89,F,Superior,Rural,2-4 SM,1,Feature phone,7.0,61.6,90.9,86.4,0,0,1,1.9,1,0,1,1,57.0,Média
+60,M,Superior,Nordeste,2-4 SM,1,Feature phone,1.0,37.2,47.6,46.0,0,0,0,22.5,1,0,1,0,65.0,Média
+86,F,Superior,Nordeste,<=1 SM,0,Smartphone,2.0,74.1,87.8,60.3,0,1,0,22.4,1,1,0,0,59.5,Média
+58,M,Médio,Nordeste,1-2 SM,1,Smartphone+PC/Tablet,6.0,28.0,57.1,64.4,0,0,0,18.8,0,1,1,1,68.3,Alta
+81,F,Pós-graduação,Nordeste,2-4 SM,1,Nenhum,8.0,83.8,87.3,92.5,1,0,0,16.7,1,1,1,1,67.3,Alta
+84,F,Fundamental,Sudeste,4-8 SM,1,Smartphone,10.0,58.6,69.8,70.8,0,0,0,8.5,1,1,1,1,49.1,Média
+86,M,Médio,Rural,2-4 SM,1,Smartphone+PC/Tablet,8.0,7.3,62.2,65.5,1,0,0,16.0,1,1,0,0,84.6,Alta
+62,F,Médio,Rural,<=1 SM,1,Smartphone+PC/Tablet,6.0,48.9,55.9,58.0,0,1,0,8.4,1,1,1,0,66.5,Alta
+86,F,Pós-graduação,Sudeste,2-4 SM,1,Smartphone,3.0,66.8,46.4,61.0,1,0,0,0.0,0,1,0,1,69.9,Alta
+59,F,Técnico,Sudeste,1-2 SM,1,Smartphone,2.0,50.7,58.3,88.1,1,0,0,18.0,1,1,1,1,69.4,Alta
+73,M,Superior,Sul,2-4 SM,1,Smartphone,4.0,67.9,72.3,62.1,0,0,0,15.8,1,1,1,1,41.3,Média
+71,M,Fundamental,Sul,4-8 SM,1,Smartphone,8.0,39.7,56.8,54.1,1,1,0,8.8,1,1,1,1,81.6,Alta
+66,Outro/Prefiro não dizer,Pós-graduação,Nordeste,2-4 SM,1,Feature phone,7.0,31.5,51.6,50.7,0,0,0,1.6,1,1,0,0,66.0,Alta
+55,F,Médio,Sudeste,2-4 SM,1,Smartphone,0.0,53.7,52.7,50.9,0,0,0,5.5,0,0,1,0,63.9,Média
+82,F,Médio,Sul,1-2 SM,1,Smartphone,3.0,55.6,73.9,34.0,1,0,0,0.0,1,1,0,0,57.2,Média
+66,F,Pós-graduação,Nordeste,2-4 SM,0,Smartphone,11.0,48.7,77.8,47.0,0,1,0,14.7,1,1,1,1,73.9,Alta
+78,M,Médio,Sudeste,4-8 SM,1,Smartphone,6.0,77.1,45.7,92.0,0,0,0,0.0,1,0,1,0,59.1,Média
+69,Outro/Prefiro não dizer,Médio,Rural,2-4 SM,1,Smartphone,0.0,39.7,45.6,57.9,0,0,0,10.7,1,0,1,1,68.7,Alta
+68,M,Técnico,Rural,2-4 SM,1,Smartphone,15.0,60.6,63.4,76.1,0,1,0,3.9,1,1,1,1,62.1,Média
+86,M,Fundamental,Sul,1-2 SM,1,Smartphone+PC/Tablet,6.0,56.2,83.0,12.4,0,0,0,0.4,1,1,1,1,38.4,Média
+58,F,Médio,Sudeste,<=1 SM,1,Smartphone+PC/Tablet,8.0,27.0,76.5,73.4,0,0,0,10.4,1,1,1,1,61.0,Média
+80,M,Médio,Nordeste,<=1 SM,1,Smartphone,8.0,31.3,35.7,58.8,0,0,0,7.0,0,1,1,0,75.8,Alta
+81,F,Fundamental,Nordeste,1-2 SM,1,Smartphone,5.0,55.2,52.5,52.4,0,0,1,14.0,1,0,1,0,65.8,Alta
+68,F,Superior,Sudeste,1-2 SM,1,Smartphone,3.0,90.7,41.2,65.6,0,0,0,1.4,1,0,1,1,50.4,Média
+64,F,Técnico,Sudeste,>=8 SM,1,Nenhum,14.0,65.4,52.5,52.1,0,0,0,4.5,1,1,1,0,72.1,Alta
+55,F,Médio,Sudeste,2-4 SM,1,Smartphone,10.0,23.9,84.3,19.5,0,0,1,0.0,1,0,1,0,66.7,Alta
+87,F,Médio,Sudeste,1-2 SM,0,Feature phone,9.0,0.0,32.8,80.4,0,0,0,0.0,1,1,0,1,100.0,Alta
+88,F,Médio,Sudeste,<=1 SM,1,Smartphone,8.0,68.2,29.5,66.9,0,0,0,19.8,1,0,1,1,61.1,Média
+63,F,Técnico,Sudeste,1-2 SM,1,Smartphone,2.0,53.3,42.9,55.7,1,1,1,21.5,1,1,0,0,86.1,Alta
+56,M,Pós-graduação,Centro-Oeste,4-8 SM,1,Smartphone,11.0,75.5,61.9,42.7,1,0,0,9.6,1,1,0,0,51.8,Média
+59,F,Pós-graduação,Centro-Oeste,1-2 SM,1,Feature phone,3.0,39.1,67.6,32.6,0,0,0,4.1,1,0,1,0,58.8,Média
+57,F,Médio,Nordeste,4-8 SM,1,Smartphone,7.0,61.3,64.4,66.5,0,0,0,7.2,0,1,0,1,53.4,Média
+84,M,Médio,Nordeste,4-8 SM,1,Smartphone+PC/Tablet,0.0,70.2,77.0,94.3,1,0,0,14.2,0,1,1,0,59.8,Média
+86,M,Médio,Sul,<=1 SM,1,Smartphone,0.0,46.9,27.0,66.1,1,0,0,5.9,1,0,1,0,86.1,Alta
+60,M,Técnico,Sudeste,2-4 SM,1,Smartphone,7.0,47.3,77.2,34.3,0,0,0,10.4,0,1,0,0,49.8,Média
+81,F,Médio,Nordeste,>=8 SM,1,Nenhum,3.0,55.5,51.7,66.5,0,0,1,8.9,1,1,0,1,86.1,Alta
+61,M,Técnico,Sudeste,1-2 SM,1,Smartphone,0.0,64.8,69.4,60.9,0,0,0,5.6,0,1,0,1,49.6,Média
+67,F,Técnico,Sudeste,<=1 SM,1,Feature phone,8.0,54.7,34.5,79.3,0,1,0,5.8,0,1,0,0,79.0,Alta
+75,F,Médio,Norte,4-8 SM,1,Smartphone,14.0,72.5,57.1,74.1,1,1,0,10.8,1,1,1,0,69.3,Alta
+80,M,Médio,Nordeste,4-8 SM,1,Smartphone,12.0,46.7,61.0,2.3,0,1,0,3.1,1,0,1,0,63.4,Média
+85,F,Médio,Nordeste,2-4 SM,0,Smartphone,5.0,31.1,76.6,72.9,0,0,0,11.7,1,0,1,0,81.8,Alta
+56,M,Fundamental,Sudeste,2-4 SM,0,Smartphone,6.0,90.6,30.1,41.9,0,0,0,6.2,1,1,0,0,62.8,Média
+61,M,Fundamental,Nordeste,1-2 SM,1,Nenhum,10.0,44.1,57.5,33.6,1,0,0,9.8,1,1,1,0,88.1,Alta
+64,M,Superior,Norte,4-8 SM,1,Nenhum,10.0,44.8,38.6,58.2,0,1,1,17.3,0,1,0,0,100.0,Alta
+65,F,Médio,Norte,2-4 SM,0,Smartphone,5.0,53.8,65.6,70.2,1,1,0,8.0,1,0,1,0,97.8,Alta
+89,F,Médio,Sudeste,<=1 SM,1,Smartphone+PC/Tablet,6.0,56.2,70.2,29.2,0,1,0,14.5,0,1,1,0,56.6,Média
+82,F,Técnico,Norte,2-4 SM,1,Smartphone,7.0,48.0,78.9,76.1,0,0,0,0.0,1,1,0,0,53.2,Média
+66,F,Superior,Sul,>=8 SM,1,Smartphone,8.0,54.7,47.9,77.3,0,1,0,6.2,1,0,1,0,75.0,Alta
+89,M,Médio,Nordeste,4-8 SM,1,Smartphone,5.0,54.3,72.8,62.9,0,0,0,9.2,1,1,1,1,48.7,Média
+72,F,Superior,Sudeste,1-2 SM,1,Nenhum,6.0,58.1,80.1,44.6,1,1,0,20.5,1,1,0,0,83.4,Alta
+72,M,Pós-graduação,Sudeste,<=1 SM,1,Feature phone,12.0,12.6,29.1,42.4,0,0,0,0.0,1,0,1,0,86.5,Alta
+70,M,Técnico,Sudeste,>=8 SM,1,Smartphone,11.0,88.9,67.4,82.5,0,0,1,8.4,1,1,1,1,46.1,Média
+60,M,Superior,Norte,>=8 SM,1,Smartphone,8.0,52.3,73.3,31.8,0,0,0,17.7,1,0,0,0,48.0,Média
+87,F,Fundamental,Sudeste,2-4 SM,1,Smartphone,13.0,65.5,52.6,83.3,0,1,1,4.3,1,1,0,1,72.8,Alta
+55,F,Pós-graduação,Sul,2-4 SM,1,Smartphone,4.0,30.2,36.4,58.7,0,0,1,7.7,1,0,1,0,84.9,Alta
+61,Outro/Prefiro não dizer,Médio,Norte,2-4 SM,1,Smartphone+PC/Tablet,12.0,46.5,73.0,60.1,1,0,0,11.0,1,0,1,1,68.3,Alta
+63,M,Pós-graduação,Nordeste,1-2 SM,1,Smartphone,8.0,42.9,36.6,27.8,0,0,0,10.1,1,0,1,0,66.0,Alta
+64,M,Técnico,Sul,<=1 SM,1,Smartphone+PC/Tablet,19.0,81.5,54.0,59.1,0,0,1,18.4,1,0,1,0,53.6,Média
+59,M,Fundamental,Sudeste,<=1 SM,1,Smartphone,1.0,44.5,56.3,74.3,0,1,1,11.7,1,0,1,1,83.1,Alta
+55,M,Fundamental,Nordeste,1-2 SM,1,Smartphone+PC/Tablet,3.0,68.6,69.2,35.3,0,0,1,17.0,0,1,0,1,49.8,Média
+78,F,Superior,Nordeste,4-8 SM,1,Smartphone+PC/Tablet,8.0,43.3,46.3,72.0,0,0,0,6.8,1,0,0,0,69.7,Alta
+88,M,Técnico,Sudeste,<=1 SM,0,Smartphone,8.0,46.9,45.4,63.8,0,1,0,4.6,1,0,0,1,95.7,Alta
+59,F,Fundamental,Sudeste,1-2 SM,1,Smartphone+PC/Tablet,14.0,50.6,58.7,49.1,0,0,1,7.6,1,0,1,0,66.5,Alta
+65,M,Superior,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,3.0,78.1,74.1,79.1,0,0,1,2.0,1,1,1,1,49.4,Média
+72,M,Superior,Rural,1-2 SM,1,Smartphone,10.0,21.0,95.9,18.0,1,0,0,11.9,0,0,1,1,69.3,Alta
+87,F,Médio,Sudeste,1-2 SM,0,Smartphone,11.0,31.3,31.4,68.9,1,0,1,6.7,1,1,0,0,100.0,Alta
+79,F,Médio,Nordeste,2-4 SM,1,Smartphone,9.0,19.9,62.4,94.4,0,0,0,5.0,1,1,1,1,73.4,Alta
+81,F,Fundamental,Sudeste,1-2 SM,1,Smartphone+PC/Tablet,2.0,35.4,38.5,90.8,0,0,1,12.0,1,1,1,1,80.8,Alta
+75,M,Superior,Centro-Oeste,2-4 SM,1,Smartphone,12.0,40.4,74.3,69.8,0,0,0,2.1,0,0,0,1,65.9,Alta
+69,F,Médio,Nordeste,4-8 SM,1,Smartphone+PC/Tablet,11.0,25.9,41.0,56.0,0,0,1,13.6,1,1,0,0,78.6,Alta
+61,F,Superior,Norte,1-2 SM,1,Smartphone+PC/Tablet,8.0,41.8,45.5,49.3,0,1,0,6.1,1,1,1,1,72.4,Alta
+85,F,Médio,Centro-Oeste,4-8 SM,1,Smartphone+PC/Tablet,7.0,18.7,47.0,55.9,0,1,0,16.0,1,0,1,1,86.3,Alta
+83,F,Técnico,Sudeste,4-8 SM,0,Smartphone,7.0,36.7,55.7,72.9,1,0,0,6.6,1,1,1,0,94.6,Alta
+55,F,Médio,Norte,4-8 SM,1,Smartphone,6.0,76.6,62.5,45.9,0,0,0,12.8,1,1,0,1,39.0,Média
+80,F,Fundamental,Sudeste,2-4 SM,1,Smartphone,9.0,62.3,65.2,77.1,0,1,0,10.1,1,0,1,0,64.7,Média
+57,F,Superior,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,6.0,58.4,56.9,100.0,0,1,1,13.5,1,1,0,1,75.1,Alta
+80,F,Médio,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,3.0,36.9,34.4,60.8,0,0,0,9.7,0,1,0,1,73.5,Alta
+83,F,Médio,Sudeste,2-4 SM,0,Smartphone,2.0,27.4,69.4,35.1,0,0,1,0.0,0,0,1,0,94.7,Alta
+59,F,Pós-graduação,Sudeste,<=1 SM,0,Smartphone,3.0,34.5,56.1,35.1,0,0,0,15.1,0,1,0,1,80.1,Alta
+70,F,Pós-graduação,Sudeste,>=8 SM,1,Feature phone,7.0,54.2,76.7,77.5,0,0,0,8.5,1,0,1,0,54.7,Média
+59,M,Superior,Nordeste,2-4 SM,1,Smartphone+PC/Tablet,6.0,70.6,45.0,60.8,1,0,0,13.7,1,0,1,0,66.9,Alta
+74,F,Médio,Sudeste,4-8 SM,1,Smartphone,7.0,71.2,29.8,79.5,1,0,0,13.1,1,0,0,0,74.8,Alta
+87,F,Técnico,Sudeste,1-2 SM,0,Smartphone,8.0,66.4,56.4,51.3,0,1,0,4.4,1,1,0,0,76.2,Alta
+57,F,Superior,Nordeste,<=1 SM,1,Smartphone+PC/Tablet,3.0,41.7,79.0,78.6,1,0,0,3.5,0,1,1,1,71.7,Alta
+68,F,Médio,Norte,2-4 SM,1,Smartphone,12.0,55.4,59.7,58.8,0,0,1,12.9,1,1,0,0,59.4,Média
+89,F,Fundamental,Nordeste,2-4 SM,1,Smartphone,5.0,49.2,53.6,47.3,1,0,0,7.2,1,1,0,1,67.8,Alta
+65,F,Superior,Sudeste,2-4 SM,0,Smartphone,4.0,51.4,42.2,54.0,0,1,1,14.6,1,1,0,1,94.3,Alta
+59,M,Médio,Sudeste,1-2 SM,1,Smartphone+PC/Tablet,8.0,91.7,86.9,38.1,0,0,0,7.9,1,1,0,1,23.5,Baixa
+72,F,Técnico,Nordeste,1-2 SM,0,Smartphone,0.0,23.3,39.5,100.0,0,0,0,15.1,0,1,1,0,100.0,Alta
+72,F,Pós-graduação,Sul,2-4 SM,1,Feature phone,3.0,50.8,44.7,60.1,0,0,0,11.5,1,0,1,1,64.2,Média
+78,F,Técnico,Sul,1-2 SM,1,Smartphone,10.0,76.8,66.7,74.9,0,0,0,10.7,1,1,0,0,42.2,Média
+65,F,Médio,Nordeste,>=8 SM,1,Smartphone,0.0,28.6,25.4,51.3,0,1,0,6.8,1,1,1,1,85.5,Alta
+88,F,Médio,Sul,1-2 SM,1,Smartphone+PC/Tablet,10.0,43.4,78.7,41.0,0,0,0,10.4,1,1,0,0,48.0,Média
+73,M,Médio,Norte,1-2 SM,1,Smartphone,12.0,45.5,67.6,57.3,0,1,0,16.2,1,1,1,1,62.2,Média
+65,M,Fundamental,Sul,1-2 SM,1,Smartphone,5.0,51.0,72.3,84.0,0,0,0,8.7,0,1,0,0,57.6,Média
+88,F,Superior,Rural,2-4 SM,0,Feature phone,7.0,26.3,66.5,51.6,1,0,0,12.2,1,0,1,0,96.2,Alta
+87,F,Superior,Norte,2-4 SM,1,Smartphone,10.0,65.7,54.3,44.6,0,0,0,9.3,1,1,0,1,47.3,Média
+72,F,Médio,Sudeste,2-4 SM,1,Smartphone,4.0,67.0,38.9,65.1,1,0,0,9.7,1,1,1,0,67.1,Alta
+55,F,Médio,Rural,>=8 SM,0,Smartphone,9.0,64.2,54.6,72.0,0,0,1,19.3,0,1,0,1,80.0,Alta
+75,M,Superior,Sul,1-2 SM,1,Smartphone,3.0,39.3,40.4,94.9,0,0,0,16.2,1,0,1,1,75.1,Alta
+74,F,Fundamental,Rural,2-4 SM,1,Smartphone,4.0,56.6,65.3,69.1,0,0,0,9.5,1,0,0,0,56.2,Média
+60,F,Médio,Sudeste,<=1 SM,0,Smartphone,3.0,38.8,70.7,74.9,0,0,0,10.3,1,1,1,0,76.0,Alta
+77,M,Médio,Norte,1-2 SM,0,Smartphone,7.0,49.0,82.1,76.4,0,1,0,4.8,1,1,1,0,78.7,Alta
+84,F,Superior,Sul,2-4 SM,1,Smartphone+PC/Tablet,11.0,93.8,63.3,38.9,1,0,0,8.0,1,1,0,1,42.9,Média
+58,F,Fundamental,Sudeste,<=1 SM,1,Feature phone,5.0,56.7,72.7,42.7,0,0,1,10.9,1,1,0,1,52.3,Média
+80,M,Superior,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,1.0,33.6,51.9,40.3,1,1,0,14.1,1,0,0,0,87.9,Alta
+59,F,Médio,Sudeste,2-4 SM,1,Smartphone,2.0,58.2,48.9,35.4,0,1,0,13.5,0,0,1,1,69.3,Alta
+81,F,Técnico,Sudeste,2-4 SM,0,Feature phone,8.0,30.7,65.1,77.9,0,0,0,2.3,1,1,1,0,83.7,Alta
+69,F,Fundamental,Nordeste,2-4 SM,1,Smartphone,13.0,33.4,50.4,67.8,0,0,0,14.9,1,0,1,0,70.5,Alta
+55,M,Médio,Sudeste,2-4 SM,1,Nenhum,8.0,36.3,61.6,63.6,1,0,0,8.5,1,1,0,1,95.0,Alta
+88,F,Médio,Norte,1-2 SM,1,Smartphone+PC/Tablet,4.0,47.0,39.0,10.1,0,0,0,3.1,1,1,1,1,57.1,Média
+60,F,Médio,Sudeste,<=1 SM,0,Smartphone,9.0,71.9,42.0,100.0,0,0,1,17.0,1,1,0,0,81.6,Alta
+75,F,Fundamental,Sul,<=1 SM,1,Smartphone,5.0,65.4,67.8,44.1,0,0,0,17.8,1,1,0,0,40.9,Média
+61,F,Médio,Sudeste,2-4 SM,0,Smartphone,4.0,64.4,72.1,100.0,0,0,0,10.6,1,0,0,0,72.7,Alta
+87,M,Médio,Sudeste,>=8 SM,1,Smartphone,2.0,35.2,40.2,33.0,1,0,0,13.3,1,0,1,0,80.4,Alta
+80,F,Fundamental,Nordeste,<=1 SM,1,Smartphone+PC/Tablet,12.0,45.3,68.4,45.8,1,1,0,13.6,1,1,1,0,72.8,Alta
+83,M,Pós-graduação,Rural,2-4 SM,1,Smartphone+PC/Tablet,0.0,59.9,47.9,17.9,0,1,0,17.4,1,1,1,1,56.5,Média
+70,M,Médio,Sudeste,4-8 SM,1,Smartphone,9.0,43.7,57.3,69.2,1,1,0,13.4,1,0,0,0,86.0,Alta
+71,M,Superior,Centro-Oeste,4-8 SM,1,Smartphone+PC/Tablet,4.0,50.0,81.1,40.0,1,0,1,1.0,1,0,0,0,70.9,Alta
+77,F,Pós-graduação,Nordeste,2-4 SM,1,Smartphone+PC/Tablet,4.0,62.9,70.7,40.5,0,0,0,21.1,1,0,1,1,44.8,Média
+82,M,Fundamental,Nordeste,2-4 SM,0,Smartphone,13.0,48.7,70.5,34.5,0,0,1,15.4,1,1,1,0,72.5,Alta
+84,M,Técnico,Sudeste,2-4 SM,1,Smartphone,3.0,59.1,89.4,77.5,0,0,0,5.9,1,1,0,0,43.6,Média
+55,F,Superior,Sul,4-8 SM,1,Nenhum,3.0,83.7,45.0,76.2,0,0,0,2.8,1,1,0,1,70.5,Alta
+78,M,Técnico,Sudeste,<=1 SM,0,Smartphone,5.0,51.9,40.2,98.2,0,0,1,12.0,1,1,1,0,91.9,Alta
+58,M,Médio,Nordeste,4-8 SM,1,Smartphone+PC/Tablet,8.0,76.2,44.7,48.3,0,0,0,7.3,1,0,1,0,51.8,Média
+65,F,Médio,Sul,<=1 SM,1,Feature phone,4.0,65.1,52.7,66.4,1,0,0,11.0,0,1,1,0,67.0,Alta
+84,M,Fundamental,Centro-Oeste,4-8 SM,1,Smartphone+PC/Tablet,0.0,28.6,17.0,36.2,1,0,0,13.5,1,0,0,0,91.9,Alta
+63,F,Médio,Sul,<=1 SM,1,Smartphone+PC/Tablet,3.0,35.2,53.5,55.3,0,0,0,5.6,1,1,1,0,63.6,Média
+82,M,Pós-graduação,Nordeste,1-2 SM,0,Smartphone,11.0,40.0,47.7,51.6,0,0,1,2.3,0,0,0,0,98.6,Alta
+71,Outro/Prefiro não dizer,Pós-graduação,Sudeste,<=1 SM,0,Smartphone,6.0,39.6,70.3,71.3,0,0,0,11.3,1,1,1,0,75.0,Alta
+63,F,Fundamental,Sul,2-4 SM,0,Smartphone+PC/Tablet,8.0,53.4,63.0,82.3,0,1,1,5.8,1,0,0,1,97.1,Alta
+66,M,Superior,Nordeste,1-2 SM,1,Smartphone+PC/Tablet,5.0,66.1,46.8,81.8,0,0,0,9.9,1,1,0,0,55.2,Média
+73,F,Médio,Sudeste,1-2 SM,1,Feature phone,3.0,77.6,67.0,45.1,0,0,0,0.9,1,0,1,0,44.2,Média
+81,M,Pós-graduação,Rural,2-4 SM,0,Smartphone,13.0,60.5,69.3,82.0,0,1,0,7.5,1,1,0,0,78.3,Alta
+76,M,Fundamental,Nordeste,1-2 SM,1,Smartphone,5.0,47.0,43.9,61.1,0,0,0,13.3,0,0,0,1,70.0,Alta
+87,F,Pós-graduação,Norte,4-8 SM,1,Smartphone,4.0,17.5,48.6,55.5,0,0,1,12.6,1,1,1,0,79.9,Alta
+85,F,Superior,Sudeste,4-8 SM,0,Smartphone,10.0,56.3,19.2,47.8,0,0,0,4.3,1,1,1,1,83.3,Alta
+81,F,Fundamental,Centro-Oeste,2-4 SM,1,Nenhum,3.0,55.5,38.5,50.8,1,0,0,2.0,1,0,1,0,98.8,Alta
+76,F,Fundamental,Norte,<=1 SM,1,Feature phone,4.0,58.3,44.4,96.8,0,0,0,9.1,1,0,0,1,66.9,Alta
+65,F,Superior,Sudeste,1-2 SM,1,Smartphone,6.0,92.9,58.3,68.1,0,1,0,12.4,0,1,0,0,50.5,Média
+69,F,Fundamental,Sudeste,4-8 SM,1,Smartphone,6.0,77.3,40.9,65.5,0,1,1,11.4,1,1,1,0,67.4,Alta
+59,F,Médio,Nordeste,<=1 SM,1,Smartphone,7.0,69.1,48.3,56.8,0,0,0,5.9,0,1,0,0,54.3,Média
+68,F,Pós-graduação,Centro-Oeste,1-2 SM,0,Smartphone+PC/Tablet,14.0,37.7,36.2,100.0,0,0,0,10.8,1,0,0,0,97.2,Alta
+87,M,Técnico,Sul,>=8 SM,0,Smartphone,7.0,45.8,59.9,88.1,0,0,0,18.0,1,1,1,1,77.1,Alta
+69,M,Médio,Sudeste,>=8 SM,1,Smartphone,0.0,53.3,64.2,47.6,0,1,0,10.2,1,0,1,1,64.6,Média
+58,M,Médio,Sul,1-2 SM,1,Nenhum,7.0,41.0,63.8,56.5,0,0,1,0.0,1,0,0,1,93.7,Alta
+77,F,Fundamental,Sudeste,2-4 SM,1,Smartphone,6.0,64.0,57.2,57.7,0,0,0,10.2,1,1,1,0,48.8,Média
+88,M,Pós-graduação,Rural,2-4 SM,1,Smartphone,6.0,61.4,30.8,64.9,0,1,0,21.3,0,0,1,1,77.1,Alta
+85,M,Médio,Sudeste,4-8 SM,1,Feature phone,7.0,35.4,46.5,48.0,0,0,0,1.3,1,0,0,0,70.7,Alta
+64,F,Médio,Nordeste,<=1 SM,1,Nenhum,6.0,76.5,50.1,70.8,0,0,0,9.2,0,1,1,1,73.8,Alta
+70,F,Médio,Sul,<=1 SM,1,Feature phone,6.0,56.8,50.1,91.0,0,0,1,7.6,1,1,0,1,68.0,Alta
+73,M,Pós-graduação,Sudeste,2-4 SM,0,Smartphone,8.0,23.9,58.3,35.7,0,0,0,9.6,1,1,0,0,81.3,Alta
+63,F,Fundamental,Nordeste,1-2 SM,0,Smartphone,4.0,54.1,81.2,39.4,0,0,0,10.2,1,0,1,1,65.1,Alta
+64,F,Superior,Nordeste,2-4 SM,0,Smartphone+PC/Tablet,2.0,60.1,70.8,52.3,0,0,0,15.8,0,1,1,0,65.9,Alta
+63,Outro/Prefiro não dizer,Superior,Sudeste,1-2 SM,0,Smartphone+PC/Tablet,18.0,72.5,40.2,53.3,0,0,1,9.5,1,1,0,0,76.4,Alta
+89,F,Superior,Norte,4-8 SM,1,Smartphone,3.0,48.9,68.5,100.0,0,1,1,16.7,1,1,1,0,74.7,Alta
+81,F,Pós-graduação,Nordeste,4-8 SM,1,Feature phone,6.0,69.9,67.9,82.0,0,0,0,8.3,1,0,1,1,51.4,Média
+84,Outro/Prefiro não dizer,Superior,Nordeste,2-4 SM,1,Smartphone,0.0,58.4,43.3,80.9,0,1,0,6.9,0,1,0,0,74.3,Alta
+83,M,Pós-graduação,Sudeste,4-8 SM,1,Nenhum,6.0,31.3,71.4,56.7,0,0,0,5.0,0,1,1,0,85.4,Alta
+88,F,Fundamental,Sudeste,1-2 SM,0,Smartphone,2.0,29.5,54.3,56.3,1,1,0,0.0,1,1,1,1,100.0,Alta
+58,M,Superior,Sudeste,2-4 SM,1,Smartphone,4.0,75.2,33.0,33.0,1,0,0,10.7,0,1,0,0,64.4,Média
+85,M,Técnico,Nordeste,1-2 SM,1,Smartphone,10.0,76.5,64.7,77.6,1,1,0,21.3,1,1,1,1,63.3,Média
+57,F,Técnico,Norte,4-8 SM,0,Smartphone,8.0,60.8,60.7,71.8,0,0,1,11.7,1,1,1,0,76.8,Alta
+71,M,Superior,Sudeste,4-8 SM,1,Smartphone,8.0,81.9,53.1,87.7,0,0,0,13.1,0,1,1,0,50.1,Média
+75,F,Pós-graduação,Centro-Oeste,4-8 SM,1,Smartphone+PC/Tablet,0.0,74.0,56.4,57.8,0,0,0,6.5,1,0,0,1,50.3,Média
+67,F,Superior,Sudeste,4-8 SM,1,Smartphone+PC/Tablet,13.0,67.3,44.8,59.2,0,0,0,7.5,1,0,0,0,57.4,Média
+60,M,Médio,Nordeste,>=8 SM,1,Smartphone,1.0,38.6,67.4,65.4,0,1,0,14.9,1,1,0,1,66.9,Alta
+61,F,Médio,Norte,1-2 SM,1,Smartphone,12.0,86.2,56.3,79.8,0,1,0,21.1,1,1,1,0,50.3,Média
+83,M,Médio,Nordeste,>=8 SM,1,Nenhum,10.0,64.7,59.8,32.6,0,1,0,17.9,0,1,1,1,78.3,Alta
+66,M,Médio,Sudeste,2-4 SM,0,Smartphone,8.0,48.1,63.1,76.7,0,0,1,13.8,1,1,1,0,82.0,Alta
+65,F,Médio,Centro-Oeste,1-2 SM,1,Smartphone,3.0,43.0,37.4,61.6,0,1,0,9.2,1,1,1,1,76.0,Alta
+87,M,Fundamental,Sudeste,2-4 SM,1,Smartphone,7.0,59.6,41.8,40.8,0,0,1,10.3,1,1,0,0,61.6,Média
+60,F,Fundamental,Centro-Oeste,1-2 SM,1,Smartphone,4.0,24.9,19.4,20.3,1,0,0,4.5,1,0,0,0,92.1,Alta
+87,M,Superior,Sudeste,1-2 SM,1,Smartphone+PC/Tablet,6.0,67.6,66.6,59.3,0,0,0,0.3,1,1,1,0,46.1,Média
+87,F,Médio,Sudeste,1-2 SM,1,Smartphone,5.0,37.8,36.4,91.0,0,0,0,2.2,1,0,1,0,79.4,Alta
+75,M,Pós-graduação,Norte,<=1 SM,1,Smartphone,0.0,61.7,59.3,95.5,1,0,1,9.3,1,1,1,0,75.0,Alta
+60,M,Técnico,Sudeste,2-4 SM,0,Smartphone,10.0,45.6,63.3,69.1,0,0,0,7.2,1,1,0,0,75.2,Alta
+60,F,Fundamental,Centro-Oeste,4-8 SM,1,Smartphone,6.0,50.2,67.2,100.0,0,0,0,0.2,1,0,0,0,64.8,Média
+64,M,Fundamental,Sudeste,2-4 SM,0,Smartphone,4.0,41.4,36.5,61.1,0,0,0,8.8,0,0,1,1,94.0,Alta
+75,M,Médio,Nordeste,2-4 SM,0,Smartphone,4.0,52.1,55.9,81.1,0,0,0,7.1,1,0,0,0,81.7,Alta
+60,M,Pós-graduação,Sudeste,1-2 SM,0,Smartphone,7.0,89.0,85.4,53.0,0,0,0,2.0,1,1,0,0,46.6,Média
+70,M,Médio,Sul,2-4 SM,1,Smartphone,2.0,79.9,86.1,51.7,1,0,0,6.8,1,1,1,0,43.3,Média
+59,Outro/Prefiro não dizer,Médio,Norte,1-2 SM,1,Nenhum,0.0,61.4,73.8,48.4,1,1,0,7.1,1,0,1,0,92.4,Alta
+73,F,Pós-graduação,Sudeste,4-8 SM,1,Smartphone+PC/Tablet,8.0,54.5,62.7,20.8,1,1,0,5.3,0,1,1,1,72.6,Alta
+55,F,Pós-graduação,Sudeste,1-2 SM,1,Smartphone,8.0,70.2,39.9,87.7,1,0,0,14.6,1,0,1,1,72.7,Alta
+79,F,Médio,Nordeste,2-4 SM,1,Smartphone,5.0,75.3,69.2,49.2,0,0,0,0.0,1,1,1,0,40.2,Média
+56,M,Fundamental,Sudeste,4-8 SM,1,Smartphone,1.0,40.1,54.3,46.0,1,0,0,0.0,0,1,0,1,76.9,Alta
+61,F,Fundamental,Sudeste,2-4 SM,1,Smartphone,6.0,53.6,66.5,38.4,0,0,0,9.0,1,0,1,0,52.6,Média
+61,F,Fundamental,Sul,4-8 SM,1,Smartphone,0.0,22.2,46.2,57.9,0,0,1,9.6,1,0,1,1,84.6,Alta
+84,F,Médio,Rural,1-2 SM,0,Smartphone+PC/Tablet,2.0,75.2,54.1,97.3,1,0,0,11.4,1,1,0,0,80.5,Alta
+56,M,Técnico,Norte,4-8 SM,1,Smartphone,3.0,92.2,59.8,100.0,1,0,0,5.8,1,1,1,0,54.4,Média
+70,F,Pós-graduação,Sudeste,2-4 SM,1,Smartphone,9.0,56.4,61.2,28.8,1,0,1,3.5,0,0,1,0,76.8,Alta
+75,M,Médio,Sudeste,4-8 SM,1,Smartphone,5.0,16.7,65.4,54.9,0,1,0,9.0,0,1,0,0,81.0,Alta
+73,F,Técnico,Nordeste,2-4 SM,1,Smartphone,4.0,66.0,47.2,41.3,0,0,0,6.4,1,1,1,1,49.7,Média
+78,M,Médio,Centro-Oeste,4-8 SM,1,Smartphone,14.0,38.7,34.2,81.8,0,0,0,18.3,1,0,1,0,75.2,Alta
+83,F,Superior,Rural,>=8 SM,1,Smartphone,7.0,43.1,84.6,67.7,0,0,0,7.1,0,1,0,0,54.7,Média
+68,F,Técnico,Norte,1-2 SM,1,Smartphone,7.0,66.3,99.3,49.3,1,0,0,8.7,1,1,0,0,44.1,Média
+83,M,Superior,Sudeste,4-8 SM,1,Smartphone,5.0,59.6,64.6,63.5,1,0,0,23.9,1,0,1,1,63.3,Média
+66,M,Pós-graduação,Sul,2-4 SM,1,Smartphone,4.0,46.2,34.5,52.5,0,0,0,7.8,1,1,0,1,64.4,Média
+89,F,Médio,Nordeste,2-4 SM,0,Smartphone,0.0,43.3,43.9,94.3,0,0,0,12.3,1,0,0,1,90.8,Alta
+72,F,Fundamental,Sudeste,4-8 SM,1,Smartphone,10.0,57.3,65.7,72.9,0,0,1,12.9,1,0,1,1,63.6,Média
+80,M,Médio,Rural,1-2 SM,0,Smartphone+PC/Tablet,8.0,47.6,79.8,75.4,0,0,0,13.4,1,0,1,1,73.3,Alta
+85,M,Médio,Sudeste,2-4 SM,1,Smartphone,5.0,35.0,36.4,8.7,0,1,0,10.7,1,1,1,0,71.7,Alta
+82,F,Pós-graduação,Nordeste,<=1 SM,1,Smartphone,5.0,49.0,54.9,60.7,1,1,0,10.2,1,1,1,0,78.8,Alta
+84,F,Médio,Norte,1-2 SM,0,Feature phone,9.0,61.1,60.3,100.0,0,0,0,9.6,0,1,1,0,77.5,Alta
+73,M,Superior,Sul,4-8 SM,0,Smartphone,0.0,51.8,71.7,88.5,1,0,0,5.5,0,0,1,0,93.8,Alta
+56,M,Técnico,Nordeste,1-2 SM,1,Nenhum,4.0,29.6,51.2,25.1,0,0,0,11.0,1,1,0,1,83.4,Alta
+72,M,Médio,Sudeste,1-2 SM,0,Smartphone,1.0,72.8,30.4,55.7,1,0,1,21.2,1,1,1,0,89.7,Alta
+61,M,Médio,Norte,1-2 SM,1,Smartphone,13.0,5.7,67.6,38.0,0,0,0,16.3,1,0,0,0,72.2,Alta
+86,F,Técnico,Sudeste,2-4 SM,1,Smartphone+PC/Tablet,10.0,47.0,76.1,96.2,0,0,0,10.8,1,0,1,1,60.5,Média
+63,M,Superior,Sul,4-8 SM,1,Smartphone,0.0,43.8,55.6,66.9,0,0,0,14.1,1,1,1,0,59.0,Média
+62,M,Médio,Sudeste,4-8 SM,1,Smartphone,0.0,57.7,63.9,46.6,0,1,0,3.8,1,0,0,0,63.9,Média
+63,M,Médio,Rural,<=1 SM,1,Smartphone,5.0,65.1,48.9,62.7,1,0,0,7.4,1,1,1,0,64.5,Média
+77,F,Superior,Nordeste,2-4 SM,1,Smartphone,4.0,75.3,42.6,9.9,0,1,0,14.7,0,1,1,1,54.7,Média
+74,F,Fundamental,Sudeste,2-4 SM,0,Smartphone,1.0,42.2,74.4,40.3,0,0,0,17.9,1,0,1,0,71.4,Alta
+88,M,Pós-graduação,Sul,2-4 SM,1,Smartphone,14.0,65.6,63.6,62.7,0,0,0,4.4,1,1,0,0,47.8,Média
+69,F,Médio,Sudeste,2-4 SM,1,Smartphone,7.0,58.5,65.3,78.9,0,1,0,6.1,1,1,1,0,62.4,Média
+64,M,Fundamental,Nordeste,1-2 SM,1,Feature phone,8.0,24.2,82.5,23.2,0,0,0,22.1,1,1,0,1,50.3,Média
+56,F,Médio,Sul,2-4 SM,1,Feature phone,3.0,89.2,39.1,54.4,0,0,0,9.6,1,1,1,0,43.4,Média
+55,M,Médio,Centro-Oeste,2-4 SM,1,Smartphone+PC/Tablet,9.0,29.1,47.6,82.2,0,1,0,19.9,1,1,1,0,79.6,Alta
+68,M,Médio,Sudeste,2-4 SM,1,Smartphone,4.0,62.6,59.7,33.0,0,0,0,10.2,1,1,0,1,44.9,Média
+87,F,Médio,Rural,2-4 SM,1,Nenhum,5.0,62.0,47.4,66.6,1,0,0,10.5,1,0,0,1,93.4,Alta
+73,F,Pós-graduação,Nordeste,4-8 SM,1,Smartphone+PC/Tablet,8.0,60.0,70.3,63.3,1,0,0,7.2,1,1,1,0,59.5,Média
+86,M,Médio,Nordeste,2-4 SM,1,Nenhum,0.0,46.1,53.8,96.3,0,0,0,14.7,0,0,1,0,93.9,Alta
+58,M,Médio,Norte,1-2 SM,0,Smartphone,12.0,69.9,40.1,57.4,0,0,0,17.1,1,1,0,0,68.7,Alta
+58,F,Médio,Centro-Oeste,4-8 SM,1,Smartphone,7.0,26.9,58.1,58.6,1,0,0,2.8,1,1,1,1,78.8,Alta
+84,M,Fundamental,Nordeste,4-8 SM,0,Smartphone+PC/Tablet,11.0,53.8,59.9,79.1,0,1,0,6.9,1,0,1,0,89.3,Alta
+58,M,Técnico,Sudeste,1-2 SM,1,Smartphone,2.0,44.9,72.9,35.5,1,0,0,14.5,1,1,0,1,59.7,Média
+56,F,Médio,Nordeste,2-4 SM,0,Smartphone,2.0,42.8,63.7,57.6,0,0,0,8.2,1,0,1,1,79.4,Alta
+69,F,Técnico,Sudeste,1-2 SM,1,Smartphone+PC/Tablet,1.0,62.7,64.8,52.9,0,0,1,6.0,1,0,0,0,59.8,Média
+87,F,Fundamental,Nordeste,2-4 SM,1,Nenhum,7.0,74.4,62.4,59.2,0,0,0,15.1,1,1,0,0,63.5,Média
+79,F,Pós-graduação,Centro-Oeste,1-2 SM,1,Smartphone+PC/Tablet,6.0,48.8,53.8,79.0,0,1,1,15.6,1,1,1,1,76.9,Alta
+58,F,Médio,Centro-Oeste,2-4 SM,1,Smartphone+PC/Tablet,4.0,69.1,44.8,73.1,0,0,1,6.3,1,0,0,1,66.9,Alta
+84,F,Superior,Sudeste,1-2 SM,0,Smartphone+PC/Tablet,2.0,55.9,61.9,47.0,0,0,0,10.3,1,1,1,1,67.2,Alta
+84,M,Médio,Sudeste,2-4 SM,1,Smartphone,1.0,38.9,51.3,64.7,0,1,0,1.7,1,1,1,0,74.9,Alta
+83,F,Fundamental,Centro-Oeste,>=8 SM,1,Feature phone,6.0,50.4,85.7,91.8,1,1,0,3.6,0,0,1,1,82.4,Alta
+86,M,Superior,Sul,1-2 SM,1,Smartphone,4.0,49.6,79.8,45.4,0,1,0,9.7,1,1,0,1,55.6,Média
+63,F,Técnico,Sudeste,4-8 SM,1,Smartphone,3.0,42.5,67.8,64.9,0,0,0,9.2,1,0,0,1,61.1,Média
+89,F,Superior,Nordeste,>=8 SM,1,Smartphone,12.0,62.7,63.4,58.1,0,0,0,3.2,1,1,1,0,48.7,Média
+66,M,Médio,Sul,4-8 SM,1,Smartphone+PC/Tablet,6.0,59.2,55.5,60.7,0,0,0,4.7,1,0,1,0,58.1,Média
+83,M,Técnico,Centro-Oeste,1-2 SM,1,Smartphone,11.0,26.4,35.6,29.4,0,0,0,2.6,1,1,1,0,70.6,Alta
+75,F,Superior,Norte,4-8 SM,1,Smartphone,4.0,25.3,53.3,90.2,0,1,0,11.7,0,1,0,1,86.2,Alta
+82,F,Técnico,Sudeste,<=1 SM,1,Smartphone,7.0,62.6,58.7,46.5,0,0,0,0.0,1,0,0,1,54.2,Média
+76,F,Médio,Nordeste,1-2 SM,1,Feature phone,6.0,40.3,60.9,82.5,0,0,1,2.9,0,0,0,0,80.3,Alta
+77,F,Superior,Nordeste,4-8 SM,0,Smartphone,0.0,60.4,65.0,49.6,0,1,0,0.0,1,0,1,0,81.5,Alta

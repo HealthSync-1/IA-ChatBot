@@ -1,0 +1,701 @@
+patient_age,has_chronic_condition,region,provider_type,tech_modality,sessions_last_90d,adherence_rate,satisfaction_0_100,baseline_er_visits,post_er_visits,bp_control_improved,engagement_score,HighValueUse
+78,0,Nordeste,Cardiologia,Wearable,11,0.727,69.9,0,0,1,92.0,1
+19,0,Sudeste,Psiquiatria,Teleconsulta,2,0.593,83.3,0,0,0,70.8,0
+52,1,Norte,Endocrinologia,Teleconsulta,3,0.73,65.4,0,0,1,63.8,0
+62,0,Sul,Cardiologia,Wearable,10,0.852,79.8,0,0,0,96.2,1
+34,0,Sul,Clínico Geral,Wearable,18,0.906,62.0,2,1,0,100.0,1
+80,0,Centro-Oeste,Fisioterapia,EHR Portal,5,0.862,78.1,1,1,0,89.0,1
+55,0,Sudeste,Fisioterapia,Teleconsulta,3,0.598,82.4,0,0,0,75.6,0
+22,1,Sudeste,Cardiologia,Wearable,7,0.835,95.5,0,0,0,86.7,1
+41,1,Sul,Fisioterapia,EHR Portal,7,0.804,80.9,1,1,1,96.9,1
+46,1,Nordeste,Cardiologia,EHR Portal,2,0.592,68.2,1,1,1,75.0,0
+34,0,Sudeste,Fisioterapia,Teleconsulta,1,0.636,95.9,0,0,0,75.6,0
+85,0,Norte,Cardiologia,EHR Portal,5,0.842,75.8,0,0,1,76.6,1
+43,1,Norte,Fisioterapia,EHR Portal,6,0.968,87.3,0,0,0,92.9,1
+54,0,Sul,Psiquiatria,Wearable,9,0.394,70.6,1,1,0,84.4,0
+56,1,Nordeste,Fisioterapia,EHR Portal,5,1.0,79.1,0,0,0,92.7,1
+33,1,Sudeste,Endocrinologia,EHR Portal,5,0.93,68.4,0,0,1,90.1,1
+58,0,Nordeste,Cardiologia,EHR Portal,4,0.756,81.9,1,1,1,87.2,1
+43,0,Sul,Fisioterapia,EHR Portal,6,0.677,87.6,0,0,0,87.4,0
+18,1,Sudeste,Endocrinologia,Teleconsulta,4,0.79,72.1,0,0,0,86.6,1
+47,0,Nordeste,Psiquiatria,Teleconsulta,4,0.605,71.4,0,0,0,73.4,0
+60,1,Sudeste,Endocrinologia,Teleconsulta,3,0.688,82.3,0,0,0,73.5,0
+26,1,Nordeste,Psiquiatria,EHR Portal,9,0.454,68.1,0,0,0,86.0,0
+74,0,Nordeste,Fisioterapia,Teleconsulta,1,0.407,59.8,1,0,1,66.8,0
+65,1,Sudeste,Psiquiatria,Teleconsulta,2,1.0,82.2,0,0,1,89.3,1
+40,0,Sul,Psiquiatria,Wearable,10,0.731,76.7,0,0,0,96.1,1
+60,0,Sudeste,Endocrinologia,EHR Portal,3,0.757,76.5,0,0,1,79.1,1
+39,1,Nordeste,Endocrinologia,Teleconsulta,1,0.714,84.3,1,1,0,77.3,1
+64,1,Centro-Oeste,Endocrinologia,Teleconsulta,2,0.571,85.9,0,0,0,76.3,0
+29,1,Sudeste,Fisioterapia,EHR Portal,3,0.665,76.1,0,0,1,80.1,0
+61,1,Nordeste,Cardiologia,Teleconsulta,1,0.736,64.5,1,1,0,87.0,1
+21,0,Sudeste,Fisioterapia,Teleconsulta,1,0.685,70.3,3,3,0,68.7,0
+19,0,Sudeste,Cardiologia,Teleconsulta,3,0.585,85.0,1,1,0,93.0,0
+36,0,Sul,Clínico Geral,Teleconsulta,3,0.806,79.6,1,0,1,76.5,1
+30,0,Centro-Oeste,Endocrinologia,EHR Portal,5,0.754,71.4,0,0,0,86.3,1
+53,0,Sul,Fisioterapia,Teleconsulta,2,0.791,68.6,0,0,0,72.4,1
+29,0,Sudeste,Clínico Geral,EHR Portal,7,0.847,85.4,1,1,0,95.2,1
+35,1,Sudeste,Clínico Geral,Teleconsulta,0,0.689,75.3,0,0,0,76.9,0
+25,0,Nordeste,Clínico Geral,Teleconsulta,3,0.69,87.0,0,0,0,80.5,0
+81,1,Sudeste,Cardiologia,Teleconsulta,4,0.987,88.6,0,0,0,96.6,1
+70,1,Centro-Oeste,Fisioterapia,Wearable,9,0.55,74.2,0,0,1,85.3,0
+33,1,Norte,Clínico Geral,Teleconsulta,2,0.383,89.4,0,0,0,59.0,0
+26,0,Sudeste,Clínico Geral,Teleconsulta,2,0.82,79.7,0,0,0,84.1,1
+79,1,Nordeste,Fisioterapia,Teleconsulta,6,0.607,81.2,0,0,1,83.7,0
+66,1,Sul,Clínico Geral,EHR Portal,4,0.526,51.7,0,0,1,69.9,0
+81,0,Sudeste,Clínico Geral,Teleconsulta,1,0.879,66.3,0,0,0,76.5,1
+30,0,Sudeste,Endocrinologia,Wearable,9,0.694,67.0,0,0,0,92.7,0
+43,0,Sudeste,Endocrinologia,EHR Portal,5,0.493,74.2,0,0,0,72.8,0
+26,1,Nordeste,Psiquiatria,EHR Portal,6,1.0,79.4,1,1,0,97.0,1
+48,1,Centro-Oeste,Clínico Geral,EHR Portal,3,0.43,79.9,2,2,0,77.4,0
+29,0,Nordeste,Clínico Geral,Teleconsulta,1,0.704,81.4,0,0,0,85.8,1
+18,1,Sudeste,Clínico Geral,Wearable,17,0.38,69.8,0,0,0,100.0,0
+54,0,Sudeste,Cardiologia,Wearable,13,0.769,86.3,0,0,0,100.0,1
+88,0,Nordeste,Clínico Geral,Teleconsulta,1,0.605,99.7,2,2,0,76.6,0
+64,1,Norte,Clínico Geral,EHR Portal,5,0.867,73.8,2,2,0,86.1,1
+72,1,Nordeste,Cardiologia,Teleconsulta,2,0.717,70.0,0,0,1,74.1,1
+76,1,Sudeste,Clínico Geral,EHR Portal,6,0.963,69.8,0,0,0,96.9,1
+87,0,Norte,Cardiologia,EHR Portal,6,0.643,79.0,0,0,0,82.8,0
+27,0,Sudeste,Cardiologia,Wearable,10,0.431,71.7,0,0,0,87.5,0
+36,0,Nordeste,Endocrinologia,Teleconsulta,4,0.763,57.2,0,0,0,75.5,1
+62,0,Nordeste,Fisioterapia,EHR Portal,4,0.675,60.5,0,0,0,85.0,0
+77,0,Sudeste,Clínico Geral,EHR Portal,3,0.393,90.2,1,1,0,70.3,0
+73,1,Rural,Fisioterapia,Teleconsulta,2,0.53,93.4,1,1,0,79.7,0
+70,1,Nordeste,Clínico Geral,EHR Portal,8,0.587,97.2,0,0,0,86.3,0
+40,0,Nordeste,Clínico Geral,EHR Portal,3,1.0,80.7,1,0,0,84.9,1
+44,0,Nordeste,Fisioterapia,EHR Portal,8,0.847,66.1,2,2,1,99.6,1
+23,0,Sudeste,Clínico Geral,Wearable,17,0.657,72.7,0,0,0,100.0,0
+40,0,Sudeste,Clínico Geral,Teleconsulta,0,0.805,60.1,0,0,0,65.3,0
+29,1,Sudeste,Cardiologia,Teleconsulta,0,0.353,59.6,0,0,0,54.3,0
+85,0,Sudeste,Endocrinologia,Teleconsulta,2,0.618,81.1,2,2,1,79.4,0
+24,1,Sul,Clínico Geral,Teleconsulta,2,0.792,84.5,2,2,0,84.6,1
+44,0,Norte,Cardiologia,Teleconsulta,2,0.75,100.0,0,0,0,78.1,1
+81,0,Nordeste,Psiquiatria,Wearable,14,0.623,77.0,2,1,0,97.9,0
+86,1,Sudeste,Clínico Geral,Teleconsulta,1,0.713,61.7,0,0,0,76.2,1
+45,0,Sudeste,Endocrinologia,EHR Portal,7,0.781,76.5,0,0,1,96.9,1
+51,0,Nordeste,Clínico Geral,Teleconsulta,3,0.718,74.6,1,1,0,79.0,1
+55,1,Sul,Psiquiatria,Teleconsulta,2,0.875,72.1,0,0,1,84.2,1
+77,0,Sudeste,Clínico Geral,EHR Portal,6,0.777,82.1,1,1,0,93.2,1
+73,0,Sul,Clínico Geral,EHR Portal,5,0.812,63.4,1,0,0,95.6,1
+55,0,Sul,Psiquiatria,Teleconsulta,3,1.0,79.6,0,0,0,82.8,1
+44,0,Sudeste,Cardiologia,Wearable,8,0.869,85.8,0,0,1,93.2,1
+44,0,Sul,Clínico Geral,Teleconsulta,2,1.0,95.0,0,0,0,86.1,1
+64,0,Sudeste,Endocrinologia,Teleconsulta,2,0.599,81.7,1,1,0,78.8,0
+78,1,Centro-Oeste,Psiquiatria,Teleconsulta,2,0.433,90.5,0,0,1,69.7,0
+23,1,Sudeste,Fisioterapia,EHR Portal,7,0.695,72.7,2,2,0,88.7,0
+73,0,Sul,Clínico Geral,Teleconsulta,4,0.679,74.3,0,0,0,80.9,0
+52,0,Sudeste,Clínico Geral,EHR Portal,2,0.983,94.2,0,0,0,88.0,1
+28,0,Sudeste,Psiquiatria,EHR Portal,6,0.517,61.5,0,0,1,78.5,0
+24,0,Nordeste,Clínico Geral,Teleconsulta,3,0.706,73.2,2,2,0,83.9,1
+42,0,Sul,Clínico Geral,Wearable,16,0.793,91.5,0,0,0,100.0,1
+35,1,Sudeste,Clínico Geral,Teleconsulta,4,0.738,75.5,0,0,1,81.5,1
+25,0,Sudeste,Clínico Geral,Teleconsulta,1,0.689,74.6,0,0,0,68.0,0
+39,0,Sudeste,Fisioterapia,Teleconsulta,1,0.785,74.8,0,0,0,78.1,1
+78,1,Sudeste,Fisioterapia,Teleconsulta,1,0.914,79.4,2,2,0,80.6,1
+69,1,Nordeste,Clínico Geral,Teleconsulta,2,0.996,91.0,0,0,0,93.3,1
+33,0,Sudeste,Clínico Geral,Teleconsulta,4,0.726,89.1,0,0,0,83.9,1
+66,0,Nordeste,Clínico Geral,EHR Portal,4,0.573,78.1,1,1,0,75.5,0
+50,1,Nordeste,Clínico Geral,Teleconsulta,2,0.996,91.1,0,0,1,86.7,1
+71,0,Nordeste,Clínico Geral,Teleconsulta,0,0.526,82.1,3,3,0,76.7,0
+35,1,Sudeste,Endocrinologia,EHR Portal,6,1.0,88.3,1,1,0,88.6,1
+22,1,Nordeste,Clínico Geral,Teleconsulta,2,0.962,65.7,0,0,0,80.0,1
+40,0,Centro-Oeste,Clínico Geral,EHR Portal,15,0.988,98.9,0,0,0,100.0,1
+89,0,Sul,Cardiologia,EHR Portal,4,0.843,80.6,1,1,1,83.0,1
+58,0,Sudeste,Endocrinologia,Teleconsulta,3,0.34,45.0,1,1,0,66.0,0
+21,0,Sul,Cardiologia,Teleconsulta,3,0.533,97.9,1,0,1,77.0,0
+88,0,Sudeste,Psiquiatria,Teleconsulta,5,0.775,78.1,1,1,1,87.2,1
+77,1,Nordeste,Clínico Geral,Teleconsulta,0,0.598,73.3,0,0,1,69.5,0
+57,1,Sudeste,Clínico Geral,EHR Portal,1,0.663,70.7,0,0,1,72.2,0
+71,1,Centro-Oeste,Clínico Geral,EHR Portal,5,0.83,83.3,1,0,0,81.9,1
+31,1,Rural,Clínico Geral,EHR Portal,2,0.689,67.3,1,0,0,76.1,0
+60,1,Nordeste,Psiquiatria,Teleconsulta,2,0.501,71.1,0,0,0,61.3,0
+83,0,Sul,Cardiologia,Wearable,16,0.879,71.4,0,0,0,100.0,1
+49,0,Sudeste,Endocrinologia,Teleconsulta,2,0.813,74.5,3,2,0,82.4,1
+20,1,Sul,Psiquiatria,Wearable,18,0.675,71.8,0,0,0,100.0,0
+72,1,Nordeste,Endocrinologia,EHR Portal,8,0.848,88.2,1,1,0,100.0,1
+70,0,Sudeste,Fisioterapia,Teleconsulta,2,0.737,81.3,0,0,1,76.6,1
+71,1,Nordeste,Psiquiatria,Teleconsulta,0,0.96,82.7,0,0,0,76.9,1
+64,0,Sudeste,Fisioterapia,Teleconsulta,1,0.747,85.3,0,0,0,80.0,1
+27,0,Nordeste,Clínico Geral,Wearable,12,0.958,76.9,0,0,1,100.0,1
+26,1,Sudeste,Cardiologia,Teleconsulta,0,0.383,65.8,2,2,0,69.0,0
+75,0,Sudeste,Psiquiatria,Wearable,14,0.803,99.7,0,0,0,100.0,1
+79,0,Sudeste,Endocrinologia,EHR Portal,3,0.648,89.1,1,1,0,78.7,0
+23,1,Sudeste,Fisioterapia,Teleconsulta,1,0.565,97.4,0,0,0,78.0,0
+59,1,Sudeste,Endocrinologia,EHR Portal,3,0.929,90.4,0,0,1,92.6,1
+54,0,Nordeste,Fisioterapia,Teleconsulta,1,0.88,72.5,0,0,0,82.4,1
+43,1,Sudeste,Cardiologia,Teleconsulta,0,0.359,49.8,2,2,1,56.0,0
+64,0,Sudeste,Clínico Geral,Wearable,20,0.849,63.3,1,1,0,100.0,1
+83,1,Sudeste,Clínico Geral,Teleconsulta,4,0.827,85.6,0,0,1,91.1,1
+77,0,Nordeste,Clínico Geral,Wearable,20,0.59,76.8,1,1,0,100.0,0
+29,1,Sudeste,Psiquiatria,Wearable,14,0.57,73.0,1,1,0,100.0,0
+51,1,Sudeste,Psiquiatria,Teleconsulta,1,0.434,48.1,0,0,0,67.4,0
+85,0,Sul,Clínico Geral,EHR Portal,3,0.659,77.8,0,0,0,74.3,0
+35,0,Sul,Clínico Geral,Teleconsulta,3,0.688,65.0,0,0,1,81.6,0
+79,0,Sudeste,Clínico Geral,EHR Portal,8,0.863,69.3,0,0,1,98.0,1
+53,1,Norte,Endocrinologia,Wearable,12,0.768,88.2,0,0,0,100.0,1
+55,1,Sudeste,Fisioterapia,Wearable,12,0.529,65.7,0,0,0,100.0,0
+36,1,Nordeste,Cardiologia,Wearable,11,0.763,66.8,0,0,0,97.1,1
+84,1,Sudeste,Clínico Geral,Teleconsulta,3,0.674,80.2,1,0,1,80.5,0
+56,0,Nordeste,Clínico Geral,EHR Portal,3,0.552,88.5,0,0,0,63.2,0
+59,1,Rural,Psiquiatria,Teleconsulta,2,0.434,73.2,2,2,0,74.0,0
+51,0,Nordeste,Cardiologia,Wearable,16,0.832,95.6,0,0,0,100.0,1
+24,1,Norte,Clínico Geral,Teleconsulta,0,0.8,62.7,0,0,0,80.2,1
+74,0,Sul,Clínico Geral,Teleconsulta,2,0.82,60.6,1,1,1,73.4,1
+41,1,Nordeste,Clínico Geral,Teleconsulta,2,0.589,59.5,0,0,0,75.8,0
+35,0,Norte,Clínico Geral,Teleconsulta,3,0.751,58.2,1,1,0,82.9,1
+74,0,Sudeste,Clínico Geral,Teleconsulta,2,0.472,82.0,0,0,1,67.6,0
+32,0,Rural,Endocrinologia,Teleconsulta,1,0.542,66.3,0,0,0,73.7,0
+67,1,Nordeste,Clínico Geral,Wearable,16,0.726,61.1,0,0,0,100.0,1
+52,0,Sudeste,Fisioterapia,EHR Portal,5,0.767,82.6,0,0,0,77.9,1
+75,0,Nordeste,Fisioterapia,Teleconsulta,3,0.427,87.9,0,0,0,75.5,0
+21,0,Sudeste,Clínico Geral,EHR Portal,6,0.53,90.6,2,2,1,78.8,0
+73,0,Centro-Oeste,Fisioterapia,Teleconsulta,3,0.654,88.5,1,1,0,71.1,0
+34,1,Sudeste,Psiquiatria,EHR Portal,1,0.893,67.0,0,0,0,80.9,1
+80,1,Sudeste,Clínico Geral,Teleconsulta,2,0.574,81.3,1,1,0,73.5,0
+43,1,Sul,Endocrinologia,EHR Portal,2,0.745,84.0,0,0,0,86.4,1
+18,1,Sudeste,Clínico Geral,Teleconsulta,1,0.764,72.3,0,0,0,76.9,1
+53,0,Sudeste,Clínico Geral,Teleconsulta,3,0.675,80.0,1,1,0,82.7,0
+21,0,Sudeste,Clínico Geral,EHR Portal,5,0.768,63.0,0,0,1,86.0,1
+37,1,Centro-Oeste,Cardiologia,EHR Portal,6,0.478,70.5,0,0,0,83.2,0
+69,1,Centro-Oeste,Fisioterapia,EHR Portal,5,0.602,82.5,1,1,1,77.0,0
+58,0,Sudeste,Endocrinologia,Teleconsulta,3,0.978,96.1,0,0,0,91.4,1
+69,1,Nordeste,Clínico Geral,EHR Portal,4,0.991,91.8,1,1,1,91.6,1
+81,0,Nordeste,Cardiologia,EHR Portal,8,0.872,85.9,0,0,0,99.9,1
+51,0,Sudeste,Clínico Geral,Teleconsulta,2,0.918,79.0,0,0,1,85.1,1
+57,0,Nordeste,Clínico Geral,Teleconsulta,3,0.391,77.1,1,1,0,66.8,0
+22,1,Nordeste,Cardiologia,Teleconsulta,1,0.549,60.6,3,2,0,66.1,0
+38,1,Sudeste,Clínico Geral,Teleconsulta,5,0.664,68.0,0,0,0,89.4,0
+70,0,Sudeste,Fisioterapia,Teleconsulta,1,1.0,68.4,0,0,1,74.0,1
+22,1,Nordeste,Cardiologia,Teleconsulta,1,0.664,84.9,0,0,1,78.4,0
+43,1,Sudeste,Endocrinologia,EHR Portal,3,0.854,89.3,0,0,1,91.8,1
+27,0,Norte,Endocrinologia,EHR Portal,5,0.788,86.8,0,0,0,90.6,1
+79,1,Rural,Clínico Geral,EHR Portal,7,0.784,92.2,0,0,0,100.0,1
+58,0,Sudeste,Clínico Geral,EHR Portal,5,0.716,78.9,1,0,0,89.0,1
+64,0,Sudeste,Fisioterapia,Teleconsulta,4,0.504,66.2,0,0,0,75.8,0
+67,0,Sudeste,Clínico Geral,Wearable,10,0.234,77.4,0,0,0,78.3,0
+34,0,Sudeste,Clínico Geral,EHR Portal,4,0.951,69.3,1,1,1,89.7,1
+21,0,Sudeste,Clínico Geral,EHR Portal,5,0.609,85.9,1,1,0,85.6,0
+46,0,Sudeste,Fisioterapia,Teleconsulta,2,0.384,73.7,1,1,0,67.0,0
+31,0,Rural,Fisioterapia,EHR Portal,6,0.799,76.8,0,0,0,85.0,1
+41,1,Sul,Clínico Geral,EHR Portal,4,0.795,86.3,2,1,0,79.6,1
+40,1,Sudeste,Clínico Geral,EHR Portal,8,0.858,69.1,0,0,0,94.6,1
+74,0,Sul,Clínico Geral,EHR Portal,3,0.921,89.6,2,2,0,80.3,1
+41,0,Nordeste,Clínico Geral,Wearable,11,0.555,61.8,0,0,0,87.8,0
+28,0,Sudeste,Endocrinologia,Wearable,11,0.563,81.7,0,0,0,81.2,0
+87,1,Sudeste,Clínico Geral,EHR Portal,6,0.663,76.9,2,2,0,88.8,0
+21,1,Centro-Oeste,Clínico Geral,Wearable,8,0.868,87.9,0,0,1,100.0,1
+32,0,Sul,Endocrinologia,Wearable,14,0.342,61.5,1,1,0,90.7,0
+43,1,Sul,Fisioterapia,Teleconsulta,3,0.743,59.6,1,1,1,87.0,1
+22,1,Sul,Clínico Geral,EHR Portal,5,0.888,87.0,0,0,1,97.4,1
+82,1,Sudeste,Endocrinologia,Teleconsulta,3,0.88,73.3,0,0,0,86.4,1
+43,0,Sudeste,Cardiologia,Teleconsulta,3,0.848,76.9,0,0,0,83.0,1
+74,0,Sudeste,Psiquiatria,Teleconsulta,0,0.911,70.1,0,0,1,76.1,1
+27,1,Nordeste,Psiquiatria,Teleconsulta,4,0.226,89.0,0,0,0,71.7,0
+55,0,Sul,Cardiologia,Teleconsulta,1,1.0,81.6,0,0,0,83.7,1
+27,0,Norte,Clínico Geral,Teleconsulta,2,0.779,80.9,0,0,1,82.7,1
+34,0,Sudeste,Fisioterapia,Teleconsulta,7,0.96,64.0,1,1,1,96.9,1
+47,0,Sudeste,Clínico Geral,EHR Portal,4,0.509,84.0,0,0,1,75.5,0
+80,1,Nordeste,Cardiologia,Wearable,18,0.404,66.1,1,1,1,100.0,0
+40,1,Nordeste,Psiquiatria,Wearable,11,1.0,70.1,0,0,0,100.0,1
+72,0,Sudeste,Clínico Geral,Teleconsulta,2,0.553,61.6,1,0,0,70.3,0
+24,1,Nordeste,Psiquiatria,Teleconsulta,4,0.664,76.1,0,0,1,75.3,0
+36,0,Sul,Fisioterapia,Wearable,17,0.815,90.8,3,2,0,100.0,1
+61,1,Nordeste,Clínico Geral,Teleconsulta,2,0.859,80.7,1,1,0,93.1,1
+51,0,Sudeste,Endocrinologia,Wearable,15,0.914,72.7,0,0,0,100.0,1
+54,1,Nordeste,Fisioterapia,EHR Portal,6,0.76,79.3,0,0,1,90.1,1
+66,1,Nordeste,Fisioterapia,EHR Portal,5,0.53,79.2,1,1,0,76.5,0
+23,1,Nordeste,Fisioterapia,Teleconsulta,0,0.847,78.8,2,1,1,66.2,0
+68,1,Sul,Clínico Geral,Teleconsulta,1,0.85,80.1,0,0,0,82.5,1
+80,0,Sudeste,Clínico Geral,EHR Portal,7,0.393,65.5,1,1,0,74.2,0
+73,1,Sul,Cardiologia,Teleconsulta,4,0.975,79.3,1,0,0,91.5,1
+38,1,Sudeste,Psiquiatria,EHR Portal,5,0.272,56.9,0,0,1,72.7,0
+43,0,Nordeste,Cardiologia,EHR Portal,4,0.906,84.9,0,0,0,89.9,1
+87,1,Norte,Endocrinologia,Teleconsulta,2,0.606,64.8,0,0,1,73.9,0
+74,0,Sudeste,Endocrinologia,Teleconsulta,2,0.847,92.1,1,0,0,79.3,1
+85,0,Norte,Clínico Geral,Teleconsulta,1,0.812,48.7,0,0,0,77.4,1
+83,1,Norte,Endocrinologia,Teleconsulta,3,0.713,98.1,2,2,0,81.8,1
+49,0,Sudeste,Endocrinologia,EHR Portal,7,0.801,58.3,1,1,1,78.2,1
+27,0,Nordeste,Clínico Geral,EHR Portal,13,0.704,63.6,2,2,0,100.0,1
+34,0,Sudeste,Fisioterapia,EHR Portal,5,0.849,81.6,2,1,1,94.4,1
+39,1,Sudeste,Endocrinologia,Teleconsulta,5,1.0,85.4,1,1,0,100.0,1
+78,1,Sudeste,Psiquiatria,Teleconsulta,6,0.479,74.6,0,0,0,89.6,0
+37,0,Sudeste,Psiquiatria,EHR Portal,5,0.146,88.7,3,3,0,72.6,0
+44,1,Sudeste,Fisioterapia,EHR Portal,9,0.645,68.4,1,1,0,92.0,0
+79,1,Centro-Oeste,Endocrinologia,EHR Portal,2,0.633,73.2,1,1,0,79.8,0
+29,1,Nordeste,Fisioterapia,EHR Portal,4,0.652,74.4,1,0,0,75.1,0
+65,1,Centro-Oeste,Psiquiatria,Wearable,15,0.553,71.5,1,1,0,92.0,0
+57,1,Norte,Cardiologia,Teleconsulta,2,0.877,54.8,2,2,0,76.5,1
+88,0,Sudeste,Psiquiatria,Teleconsulta,1,0.471,77.7,2,2,0,74.4,0
+53,0,Sudeste,Psiquiatria,EHR Portal,11,0.801,76.6,0,0,0,96.4,1
+55,1,Sudeste,Clínico Geral,Teleconsulta,1,0.835,90.9,0,0,1,83.2,1
+79,0,Nordeste,Psiquiatria,EHR Portal,2,0.777,62.6,0,0,0,80.0,1
+89,0,Nordeste,Cardiologia,Teleconsulta,2,0.808,70.3,0,0,0,80.4,1
+70,0,Nordeste,Clínico Geral,Teleconsulta,2,0.891,92.4,0,0,0,78.6,1
+68,0,Rural,Clínico Geral,Teleconsulta,1,0.73,81.5,0,0,0,78.0,1
+81,1,Centro-Oeste,Cardiologia,EHR Portal,4,0.658,84.6,1,1,0,79.1,0
+88,0,Sudeste,Clínico Geral,EHR Portal,5,0.808,83.4,2,1,0,96.3,1
+70,1,Norte,Clínico Geral,Teleconsulta,3,0.828,83.5,0,0,0,89.7,1
+39,1,Sudeste,Cardiologia,Teleconsulta,2,0.88,99.9,0,0,1,83.9,1
+64,0,Sudeste,Clínico Geral,Teleconsulta,2,0.412,79.1,2,2,0,77.4,0
+35,0,Nordeste,Fisioterapia,Teleconsulta,3,0.687,65.9,0,0,0,78.8,0
+54,0,Sudeste,Endocrinologia,EHR Portal,3,0.528,85.7,1,1,0,66.9,0
+50,0,Sudeste,Clínico Geral,Teleconsulta,4,0.821,71.2,1,1,0,83.7,1
+89,0,Sudeste,Cardiologia,Teleconsulta,5,0.851,76.7,0,0,0,96.2,1
+57,1,Rural,Clínico Geral,Teleconsulta,4,0.671,82.4,0,0,1,77.2,0
+87,0,Sul,Psiquiatria,EHR Portal,6,0.589,68.1,0,0,0,80.7,0
+76,0,Sudeste,Fisioterapia,EHR Portal,7,0.827,71.9,0,0,0,84.2,1
+79,0,Sul,Endocrinologia,EHR Portal,1,0.696,83.7,0,0,1,69.6,0
+30,0,Sudeste,Endocrinologia,EHR Portal,5,0.977,71.4,0,0,1,86.8,1
+73,0,Centro-Oeste,Psiquiatria,Wearable,8,1.0,89.7,0,0,0,94.9,1
+36,1,Sudeste,Fisioterapia,Teleconsulta,3,0.9,66.2,1,1,1,80.4,1
+59,0,Sudeste,Fisioterapia,Wearable,12,0.762,66.1,0,0,1,100.0,1
+53,0,Sudeste,Clínico Geral,EHR Portal,11,1.0,100.0,0,0,1,100.0,1
+36,1,Sudeste,Fisioterapia,Teleconsulta,3,0.763,59.6,1,1,0,82.4,1
+88,1,Sudeste,Fisioterapia,EHR Portal,8,0.634,77.7,0,0,1,93.7,0
+81,1,Sul,Cardiologia,EHR Portal,6,0.598,100.0,0,0,0,80.6,0
+59,0,Centro-Oeste,Clínico Geral,EHR Portal,5,0.593,77.7,1,1,0,76.3,0
+18,1,Sudeste,Fisioterapia,Teleconsulta,1,0.719,94.2,1,1,0,81.7,1
+31,0,Sudeste,Fisioterapia,Teleconsulta,1,0.803,85.8,0,0,0,76.0,1
+34,1,Sul,Cardiologia,Wearable,13,0.465,77.9,0,0,0,97.7,0
+87,0,Sudeste,Cardiologia,Teleconsulta,2,0.639,76.4,1,1,0,83.4,0
+47,1,Nordeste,Fisioterapia,Teleconsulta,0,0.758,52.6,2,1,0,63.4,0
+21,1,Nordeste,Fisioterapia,Teleconsulta,3,0.836,74.2,0,0,1,81.0,1
+60,1,Norte,Fisioterapia,Teleconsulta,5,0.715,80.8,1,1,0,83.6,1
+86,0,Nordeste,Endocrinologia,EHR Portal,3,0.764,80.8,1,1,0,79.0,1
+58,1,Centro-Oeste,Endocrinologia,EHR Portal,2,0.497,100.0,0,0,1,71.3,0
+49,1,Nordeste,Clínico Geral,Wearable,16,0.556,81.4,0,0,0,100.0,0
+30,0,Sul,Clínico Geral,Teleconsulta,0,0.709,85.6,1,1,1,74.0,1
+81,0,Centro-Oeste,Cardiologia,Teleconsulta,1,0.812,92.0,0,0,0,81.2,1
+25,0,Centro-Oeste,Endocrinologia,Teleconsulta,5,0.762,84.5,0,0,0,91.3,1
+85,0,Sudeste,Clínico Geral,Teleconsulta,2,0.567,77.0,0,0,0,72.8,0
+34,1,Centro-Oeste,Fisioterapia,EHR Portal,5,0.677,77.0,0,0,0,88.5,0
+27,0,Sudeste,Clínico Geral,Teleconsulta,3,0.992,73.8,1,1,1,84.5,1
+43,1,Sul,Endocrinologia,Teleconsulta,2,0.818,83.3,0,0,0,75.4,1
+18,1,Centro-Oeste,Clínico Geral,Wearable,8,0.691,76.0,1,1,0,88.2,0
+19,1,Sudeste,Endocrinologia,EHR Portal,3,0.535,85.5,0,0,0,77.8,0
+31,1,Centro-Oeste,Cardiologia,Teleconsulta,3,0.592,65.9,1,1,0,78.5,0
+67,1,Sudeste,Endocrinologia,EHR Portal,4,0.721,79.8,2,2,0,89.7,1
+76,0,Sudeste,Psiquiatria,EHR Portal,7,0.77,96.6,0,0,1,94.4,1
+35,0,Centro-Oeste,Fisioterapia,Wearable,6,0.822,75.3,0,0,1,92.9,1
+64,1,Sudeste,Cardiologia,EHR Portal,1,0.79,100.0,1,1,0,87.7,1
+43,1,Sudeste,Endocrinologia,Teleconsulta,2,0.653,80.0,2,2,1,72.1,0
+49,0,Norte,Endocrinologia,Teleconsulta,2,0.628,77.3,0,0,1,73.8,0
+42,1,Nordeste,Fisioterapia,Teleconsulta,5,1.0,79.4,1,1,0,100.0,1
+82,1,Sudeste,Clínico Geral,EHR Portal,4,0.62,74.3,0,0,0,82.8,0
+54,0,Norte,Psiquiatria,EHR Portal,5,0.487,54.2,1,1,0,76.3,0
+54,1,Sudeste,Clínico Geral,EHR Portal,3,0.425,88.6,1,1,1,77.1,0
+79,1,Sul,Psiquiatria,EHR Portal,6,0.656,100.0,0,0,0,81.2,0
+65,0,Sudeste,Clínico Geral,Teleconsulta,0,0.889,83.8,1,1,0,76.0,1
+28,0,Centro-Oeste,Fisioterapia,Teleconsulta,3,0.616,84.5,0,0,1,72.7,0
+31,0,Sudeste,Psiquiatria,Teleconsulta,2,0.986,75.8,0,0,1,87.4,1
+42,1,Sudeste,Cardiologia,Teleconsulta,3,0.719,91.9,1,1,0,80.1,1
+25,0,Sudeste,Cardiologia,EHR Portal,5,0.92,77.5,1,0,1,90.7,1
+67,1,Rural,Clínico Geral,Wearable,12,0.584,81.2,0,0,1,94.5,0
+53,1,Sudeste,Clínico Geral,Teleconsulta,4,0.586,59.2,0,0,0,67.1,0
+21,1,Nordeste,Clínico Geral,EHR Portal,4,0.736,71.6,0,0,0,86.1,1
+46,0,Centro-Oeste,Cardiologia,Teleconsulta,4,0.807,82.4,3,2,0,76.6,1
+77,0,Sul,Fisioterapia,EHR Portal,5,0.688,88.9,2,2,0,81.3,0
+83,0,Sudeste,Clínico Geral,Teleconsulta,2,0.773,89.2,1,1,1,74.4,1
+87,0,Sul,Fisioterapia,EHR Portal,5,0.826,59.0,0,0,0,80.2,1
+84,0,Sudeste,Psiquiatria,Teleconsulta,8,0.464,60.3,0,0,0,81.6,0
+61,0,Rural,Endocrinologia,Teleconsulta,2,0.659,85.0,0,0,1,83.1,0
+84,0,Sudeste,Fisioterapia,EHR Portal,1,0.627,69.0,0,0,0,63.5,0
+86,1,Sul,Psiquiatria,Teleconsulta,4,0.635,88.7,0,0,0,78.4,0
+63,0,Sul,Fisioterapia,Teleconsulta,3,0.793,58.4,0,0,1,70.4,1
+47,0,Sul,Clínico Geral,Teleconsulta,1,0.629,76.8,1,1,0,69.6,0
+87,1,Sul,Fisioterapia,Wearable,12,0.359,77.6,0,0,0,89.2,0
+47,0,Sudeste,Psiquiatria,Teleconsulta,4,0.677,83.8,1,1,0,85.5,0
+29,1,Sudeste,Clínico Geral,EHR Portal,6,0.528,65.6,1,1,0,68.3,0
+25,1,Sudeste,Clínico Geral,Wearable,17,0.809,54.4,0,0,0,100.0,1
+58,0,Sudeste,Psiquiatria,EHR Portal,2,0.865,80.1,1,1,0,77.5,1
+20,1,Sudeste,Endocrinologia,Teleconsulta,2,0.329,84.3,1,1,0,60.8,0
+26,1,Sudeste,Endocrinologia,EHR Portal,2,0.581,90.1,0,0,0,75.7,0
+35,1,Sudeste,Endocrinologia,Teleconsulta,0,0.784,73.7,1,0,0,77.7,1
+56,0,Sudeste,Cardiologia,EHR Portal,6,0.466,87.3,0,0,1,79.8,0
+52,0,Sul,Clínico Geral,Teleconsulta,2,0.861,83.8,1,1,1,77.3,1
+54,0,Sudeste,Endocrinologia,EHR Portal,3,0.909,93.9,0,0,1,87.4,1
+54,1,Sudeste,Clínico Geral,EHR Portal,6,0.691,77.3,0,0,0,81.9,0
+89,0,Sul,Clínico Geral,Teleconsulta,4,0.581,57.2,0,0,0,77.8,0
+33,0,Sudeste,Psiquiatria,Teleconsulta,4,0.304,77.2,1,1,0,74.9,0
+52,0,Sudeste,Clínico Geral,Teleconsulta,5,0.867,79.1,0,0,0,93.9,1
+62,0,Sudeste,Clínico Geral,EHR Portal,1,1.0,84.2,0,0,1,84.7,1
+37,0,Sudeste,Clínico Geral,Teleconsulta,4,1.0,59.6,1,0,1,93.4,1
+31,0,Sudeste,Endocrinologia,EHR Portal,4,0.685,74.3,1,1,0,75.4,0
+21,1,Centro-Oeste,Psiquiatria,EHR Portal,6,0.523,88.4,0,0,0,91.1,0
+41,0,Nordeste,Clínico Geral,Wearable,14,0.871,76.8,1,0,0,100.0,1
+36,0,Sul,Fisioterapia,Teleconsulta,2,0.697,74.3,2,2,1,66.3,0
+32,0,Sul,Endocrinologia,Teleconsulta,6,0.806,100.0,0,0,0,99.2,1
+37,0,Sudeste,Cardiologia,Teleconsulta,4,0.774,65.2,1,1,0,78.3,1
+68,1,Sul,Clínico Geral,EHR Portal,7,0.737,92.8,1,0,0,92.0,1
+77,0,Sudeste,Clínico Geral,Teleconsulta,2,0.905,90.3,0,0,1,79.9,1
+55,1,Nordeste,Cardiologia,Teleconsulta,3,0.912,75.3,0,0,0,97.1,1
+22,1,Sudeste,Clínico Geral,Teleconsulta,0,0.626,77.6,0,0,0,79.5,0
+70,1,Norte,Endocrinologia,EHR Portal,4,0.554,77.6,1,1,1,84.8,0
+28,1,Nordeste,Clínico Geral,Wearable,6,0.27,80.2,0,0,1,73.8,0
+22,0,Sul,Endocrinologia,Teleconsulta,2,0.658,70.9,1,1,0,79.7,0
+58,1,Sudeste,Cardiologia,Teleconsulta,2,0.523,72.9,1,1,1,70.8,0
+48,0,Nordeste,Cardiologia,Teleconsulta,2,0.795,73.7,0,0,0,84.9,1
+40,1,Sudeste,Endocrinologia,Teleconsulta,4,0.66,74.1,0,0,0,77.7,0
+87,0,Sudeste,Clínico Geral,Wearable,10,0.679,74.3,0,0,0,100.0,0
+24,0,Sudeste,Clínico Geral,Teleconsulta,4,0.866,51.1,0,0,1,80.1,1
+21,0,Centro-Oeste,Fisioterapia,EHR Portal,5,0.792,79.2,1,0,1,84.9,1
+60,1,Sudeste,Endocrinologia,Wearable,10,0.699,71.7,1,1,0,91.4,0
+48,1,Sudeste,Endocrinologia,EHR Portal,5,1.0,55.6,1,1,0,90.3,1
+75,0,Sudeste,Fisioterapia,Teleconsulta,4,0.853,73.8,0,0,1,83.5,1
+20,0,Sul,Endocrinologia,EHR Portal,2,0.645,73.4,0,0,0,77.2,0
+48,0,Sudeste,Clínico Geral,Teleconsulta,4,0.653,93.3,0,0,0,80.0,0
+28,1,Sul,Clínico Geral,Teleconsulta,2,0.862,71.5,1,1,0,84.9,1
+20,0,Rural,Clínico Geral,Wearable,12,0.757,86.0,0,0,0,100.0,1
+51,0,Centro-Oeste,Psiquiatria,Teleconsulta,3,0.518,94.6,1,1,0,76.7,0
+70,1,Norte,Cardiologia,Teleconsulta,1,0.881,70.5,0,0,0,90.3,1
+29,1,Sudeste,Fisioterapia,Teleconsulta,6,0.946,77.4,0,0,1,98.8,1
+78,1,Sul,Endocrinologia,Teleconsulta,3,0.933,98.7,0,0,0,100.0,1
+55,1,Norte,Clínico Geral,EHR Portal,6,0.998,80.7,0,0,0,94.9,1
+52,1,Nordeste,Clínico Geral,EHR Portal,5,1.0,82.5,1,0,0,85.1,1
+84,0,Sudeste,Clínico Geral,EHR Portal,5,1.0,73.1,1,1,0,88.4,1
+41,0,Sudeste,Clínico Geral,Teleconsulta,2,0.781,86.2,0,0,0,77.8,1
+32,1,Nordeste,Fisioterapia,Teleconsulta,3,0.682,77.5,1,0,0,73.9,0
+74,0,Centro-Oeste,Clínico Geral,Teleconsulta,2,0.391,56.0,0,0,0,53.5,0
+25,1,Nordeste,Endocrinologia,EHR Portal,6,0.722,73.7,0,0,1,91.0,1
+80,0,Rural,Endocrinologia,EHR Portal,4,0.813,63.8,1,1,0,73.5,1
+77,0,Sudeste,Psiquiatria,EHR Portal,6,0.728,79.3,1,0,0,91.6,1
+88,0,Sudeste,Clínico Geral,Wearable,12,0.38,67.0,1,1,1,98.8,0
+51,1,Sul,Fisioterapia,EHR Portal,4,0.668,83.7,1,1,0,77.5,0
+62,1,Sudeste,Clínico Geral,Teleconsulta,3,0.836,78.5,1,0,0,85.4,1
+81,0,Sul,Clínico Geral,EHR Portal,5,0.535,63.0,2,2,1,74.5,0
+27,0,Nordeste,Cardiologia,EHR Portal,4,0.75,72.1,0,0,0,86.2,1
+40,0,Norte,Fisioterapia,Wearable,12,0.798,85.4,0,0,0,97.2,1
+51,0,Sudeste,Cardiologia,Teleconsulta,1,0.921,91.8,2,1,0,82.9,1
+63,0,Nordeste,Endocrinologia,EHR Portal,7,1.0,67.2,0,0,1,100.0,1
+66,1,Sul,Clínico Geral,Teleconsulta,2,0.652,64.8,0,0,0,73.4,0
+84,0,Sudeste,Psiquiatria,EHR Portal,10,0.753,100.0,0,0,1,91.4,1
+53,0,Nordeste,Clínico Geral,Wearable,9,0.759,77.9,0,0,0,100.0,1
+30,0,Sudeste,Psiquiatria,Wearable,19,0.837,79.1,1,1,0,100.0,1
+31,0,Sudeste,Cardiologia,Teleconsulta,2,0.817,69.1,2,2,1,79.7,1
+75,0,Sudeste,Clínico Geral,Teleconsulta,3,0.977,80.6,0,0,1,90.9,1
+51,1,Nordeste,Fisioterapia,EHR Portal,4,0.3,98.6,0,0,0,73.2,0
+63,1,Rural,Clínico Geral,EHR Portal,6,0.795,81.1,0,0,0,100.0,1
+58,1,Sudeste,Endocrinologia,Wearable,13,0.808,90.8,1,1,1,100.0,1
+76,0,Sul,Clínico Geral,Teleconsulta,4,0.678,78.3,0,0,0,79.9,0
+33,1,Sudeste,Endocrinologia,EHR Portal,2,0.312,65.7,1,1,0,66.6,0
+30,1,Sudeste,Clínico Geral,EHR Portal,3,0.709,69.8,0,0,0,79.4,1
+70,1,Norte,Psiquiatria,Teleconsulta,5,0.592,64.6,1,0,1,78.7,0
+49,1,Sudeste,Clínico Geral,Teleconsulta,3,1.0,80.6,0,0,0,89.9,1
+76,0,Nordeste,Cardiologia,EHR Portal,6,0.788,92.7,0,0,0,88.6,1
+27,1,Rural,Endocrinologia,Teleconsulta,1,0.577,79.9,0,0,0,72.6,0
+37,1,Nordeste,Clínico Geral,EHR Portal,6,0.351,74.3,0,0,0,72.3,0
+87,1,Centro-Oeste,Clínico Geral,EHR Portal,6,0.826,68.5,1,1,0,78.8,1
+78,1,Sudeste,Cardiologia,Teleconsulta,1,0.845,82.3,1,0,0,85.6,1
+22,1,Sudeste,Cardiologia,Teleconsulta,4,0.681,63.1,0,0,0,75.9,0
+76,0,Sudeste,Endocrinologia,Wearable,12,0.829,64.4,2,2,0,100.0,1
+22,1,Sudeste,Clínico Geral,EHR Portal,5,0.657,88.8,0,0,0,80.2,0
+26,1,Sudeste,Psiquiatria,EHR Portal,7,0.912,74.7,0,0,1,90.3,1
+82,1,Sul,Psiquiatria,EHR Portal,4,0.899,74.4,2,2,0,81.7,1
+27,1,Sudeste,Endocrinologia,EHR Portal,6,0.425,76.0,0,0,0,82.1,0
+39,0,Sudeste,Clínico Geral,Wearable,11,0.469,86.7,0,0,0,97.2,0
+27,0,Sul,Clínico Geral,EHR Portal,2,1.0,80.0,0,0,1,86.5,1
+60,0,Nordeste,Psiquiatria,EHR Portal,4,0.888,69.1,0,0,1,83.1,1
+22,1,Nordeste,Endocrinologia,Teleconsulta,0,0.493,69.5,0,0,0,56.7,0
+38,1,Norte,Cardiologia,Teleconsulta,0,0.437,75.7,0,0,0,68.4,0
+41,1,Sudeste,Psiquiatria,EHR Portal,4,0.757,81.6,0,0,0,80.4,1
+64,1,Sudeste,Clínico Geral,Teleconsulta,3,0.514,77.6,1,1,1,68.1,0
+53,1,Nordeste,Endocrinologia,EHR Portal,4,0.663,76.5,1,1,0,80.3,0
+31,0,Nordeste,Cardiologia,Wearable,12,0.711,78.6,0,0,0,97.9,1
+51,1,Norte,Endocrinologia,Teleconsulta,3,0.704,77.6,1,1,0,71.8,1
+51,1,Sudeste,Endocrinologia,Teleconsulta,2,0.923,68.6,1,1,0,75.5,1
+43,1,Nordeste,Fisioterapia,EHR Portal,5,1.0,91.3,1,1,0,96.4,1
+56,1,Sudeste,Clínico Geral,Teleconsulta,1,0.634,72.2,2,1,0,68.8,0
+41,1,Sul,Psiquiatria,EHR Portal,1,0.516,79.6,2,2,0,72.2,0
+42,0,Sudeste,Endocrinologia,EHR Portal,8,0.79,53.3,0,0,1,90.0,1
+74,1,Sul,Clínico Geral,Teleconsulta,1,1.0,75.4,0,0,1,88.8,1
+36,0,Rural,Psiquiatria,EHR Portal,3,0.647,64.8,3,3,0,71.6,0
+41,0,Sudeste,Clínico Geral,EHR Portal,3,0.873,66.3,2,1,0,83.9,1
+28,0,Sudeste,Fisioterapia,Teleconsulta,0,0.569,100.0,1,1,1,75.3,0
+68,0,Sudeste,Psiquiatria,Teleconsulta,3,0.724,81.0,1,0,0,77.3,1
+68,0,Sudeste,Cardiologia,Teleconsulta,0,0.511,92.7,0,0,0,74.9,0
+66,1,Sudeste,Psiquiatria,Wearable,11,0.722,88.3,0,0,0,90.8,1
+30,0,Norte,Psiquiatria,Teleconsulta,2,0.699,89.8,1,1,0,74.7,0
+50,0,Sudeste,Fisioterapia,Teleconsulta,2,0.829,75.6,0,0,0,72.1,1
+39,0,Sul,Clínico Geral,Teleconsulta,6,1.0,97.3,2,2,1,94.1,1
+72,0,Sudeste,Endocrinologia,Teleconsulta,2,0.65,88.2,0,0,1,76.4,0
+42,1,Sudeste,Fisioterapia,Teleconsulta,1,0.36,78.5,0,0,1,68.9,0
+47,0,Sudeste,Cardiologia,EHR Portal,6,0.684,81.2,0,0,0,85.1,0
+50,0,Sudeste,Cardiologia,Teleconsulta,3,0.774,76.4,0,0,0,78.3,1
+72,1,Sudeste,Clínico Geral,EHR Portal,4,0.756,78.6,1,1,1,75.5,1
+68,1,Sudeste,Clínico Geral,Teleconsulta,1,0.692,77.5,0,0,0,68.5,0
+77,1,Centro-Oeste,Cardiologia,Teleconsulta,1,0.988,82.6,1,0,0,85.8,1
+48,1,Sudeste,Endocrinologia,Teleconsulta,5,0.745,98.9,0,0,0,92.6,1
+77,0,Sul,Fisioterapia,EHR Portal,3,0.701,63.5,0,0,0,75.1,1
+80,1,Nordeste,Clínico Geral,Wearable,9,0.58,91.7,0,0,0,97.0,0
+55,0,Sul,Fisioterapia,Teleconsulta,1,0.406,73.6,0,0,0,60.7,0
+66,0,Nordeste,Endocrinologia,Wearable,17,0.779,93.2,3,3,0,100.0,1
+83,0,Rural,Clínico Geral,Teleconsulta,6,0.764,74.0,0,0,0,85.7,1
+78,1,Sudeste,Cardiologia,EHR Portal,7,0.529,83.0,1,1,0,91.4,0
+37,0,Sudeste,Endocrinologia,EHR Portal,2,0.712,76.1,0,0,0,77.8,1
+69,0,Sudeste,Fisioterapia,Teleconsulta,3,0.694,57.2,0,0,1,67.0,0
+50,0,Sudeste,Cardiologia,Teleconsulta,2,0.608,98.9,0,0,1,82.2,0
+28,1,Sudeste,Psiquiatria,Teleconsulta,1,0.577,66.7,0,0,1,78.7,0
+44,0,Norte,Clínico Geral,EHR Portal,2,0.793,79.0,0,0,1,78.8,1
+88,0,Nordeste,Clínico Geral,Teleconsulta,1,0.679,65.4,0,0,0,67.9,0
+86,0,Nordeste,Clínico Geral,Wearable,10,0.614,62.0,0,0,0,94.0,0
+74,1,Sudeste,Endocrinologia,Teleconsulta,4,0.565,75.5,0,0,0,86.9,0
+89,0,Sudeste,Psiquiatria,Wearable,21,0.697,70.9,1,0,0,100.0,0
+59,1,Nordeste,Cardiologia,Teleconsulta,2,0.886,64.0,1,0,1,72.5,1
+72,0,Sudeste,Psiquiatria,EHR Portal,6,0.757,77.6,0,0,0,91.3,1
+29,0,Centro-Oeste,Endocrinologia,Teleconsulta,4,0.677,60.2,1,1,1,80.2,0
+39,0,Centro-Oeste,Clínico Geral,Teleconsulta,6,0.776,79.5,0,0,0,83.6,1
+30,0,Sudeste,Clínico Geral,Teleconsulta,7,0.966,76.5,0,0,0,100.0,1
+85,0,Sudeste,Cardiologia,EHR Portal,5,0.808,48.2,1,1,1,84.7,1
+62,0,Norte,Cardiologia,Teleconsulta,1,0.767,71.7,0,0,0,82.5,1
+85,1,Sul,Fisioterapia,EHR Portal,4,0.835,83.6,0,0,1,81.1,1
+47,0,Sudeste,Fisioterapia,Wearable,16,0.692,65.2,1,1,1,100.0,0
+47,0,Sudeste,Fisioterapia,Teleconsulta,1,0.753,84.1,2,2,1,72.9,1
+66,0,Nordeste,Clínico Geral,Teleconsulta,4,0.632,83.2,0,0,1,81.5,0
+58,0,Sudeste,Cardiologia,Teleconsulta,7,0.441,65.8,1,1,0,85.9,0
+44,0,Sul,Endocrinologia,Teleconsulta,2,0.782,77.9,0,0,0,72.4,1
+40,0,Sudeste,Endocrinologia,Teleconsulta,1,0.782,87.9,0,0,1,72.0,1
+54,0,Nordeste,Clínico Geral,EHR Portal,5,0.668,67.5,1,1,0,85.9,0
+23,0,Sudeste,Endocrinologia,Teleconsulta,4,0.906,75.5,1,0,0,87.3,1
+31,1,Sudeste,Clínico Geral,Teleconsulta,2,0.59,91.8,3,3,0,81.7,0
+21,1,Centro-Oeste,Clínico Geral,EHR Portal,2,0.401,67.7,0,0,0,62.6,0
+29,1,Sudeste,Endocrinologia,Teleconsulta,4,0.595,83.5,1,0,0,79.4,0
+32,0,Centro-Oeste,Psiquiatria,EHR Portal,4,0.443,65.0,1,1,1,75.3,0
+23,1,Sul,Psiquiatria,Wearable,13,0.781,76.1,0,0,0,100.0,1
+21,0,Sudeste,Clínico Geral,Teleconsulta,1,0.585,83.4,0,0,0,63.3,0
+77,0,Sudeste,Clínico Geral,EHR Portal,5,0.897,49.1,0,0,0,99.4,1
+31,1,Sul,Endocrinologia,EHR Portal,1,0.893,71.6,0,0,0,80.8,1
+57,0,Sudeste,Endocrinologia,EHR Portal,6,0.554,83.2,1,1,0,75.6,0
+25,0,Nordeste,Fisioterapia,EHR Portal,3,0.575,80.7,0,0,0,77.5,0
+86,1,Sudeste,Clínico Geral,EHR Portal,3,0.816,71.7,0,0,0,84.0,1
+35,1,Sudeste,Fisioterapia,EHR Portal,6,0.896,64.7,0,0,0,94.8,1
+71,0,Sudeste,Clínico Geral,EHR Portal,4,0.358,85.5,0,0,0,77.0,0
+64,0,Sul,Clínico Geral,EHR Portal,8,0.771,74.1,2,1,0,90.8,1
+73,0,Sudeste,Cardiologia,EHR Portal,5,0.324,84.5,0,0,0,64.8,0
+63,1,Rural,Clínico Geral,EHR Portal,4,0.621,82.6,1,1,1,82.1,0
+54,0,Nordeste,Endocrinologia,Teleconsulta,4,0.917,72.6,1,1,1,79.0,1
+73,0,Nordeste,Cardiologia,EHR Portal,7,1.0,90.9,1,1,1,100.0,1
+76,0,Nordeste,Fisioterapia,Teleconsulta,3,0.677,70.9,2,2,0,73.9,0
+45,1,Sudeste,Fisioterapia,Teleconsulta,4,0.496,92.3,0,0,1,80.7,0
+85,1,Nordeste,Psiquiatria,Teleconsulta,3,0.628,93.9,0,0,0,76.2,0
+89,0,Nordeste,Cardiologia,Teleconsulta,5,0.732,90.6,0,0,1,84.1,1
+69,1,Rural,Psiquiatria,EHR Portal,3,0.599,75.8,1,0,0,72.0,0
+84,0,Centro-Oeste,Fisioterapia,Teleconsulta,1,0.554,100.0,0,0,0,77.4,0
+25,1,Nordeste,Cardiologia,EHR Portal,8,0.643,79.8,0,0,0,85.8,0
+56,0,Centro-Oeste,Psiquiatria,EHR Portal,5,0.791,80.9,1,1,0,90.7,1
+64,0,Nordeste,Clínico Geral,Teleconsulta,3,0.69,77.7,1,0,0,76.0,0
+84,0,Norte,Clínico Geral,Teleconsulta,1,0.561,64.4,0,0,0,67.5,0
+26,1,Centro-Oeste,Psiquiatria,EHR Portal,6,0.599,93.5,1,1,1,85.4,0
+76,1,Centro-Oeste,Fisioterapia,EHR Portal,1,0.646,71.1,0,0,0,73.0,0
+23,1,Sudeste,Clínico Geral,Teleconsulta,2,0.54,89.0,2,2,0,69.3,0
+43,0,Sudeste,Psiquiatria,Teleconsulta,2,0.593,91.9,1,1,0,79.5,0
+67,0,Sudeste,Clínico Geral,Teleconsulta,7,0.836,85.2,0,0,0,91.9,1
+38,0,Sudeste,Cardiologia,Teleconsulta,4,0.679,69.7,0,0,0,82.3,0
+78,0,Sudeste,Endocrinologia,Teleconsulta,3,0.404,73.9,1,1,0,69.7,0
+84,0,Sul,Endocrinologia,Wearable,19,0.904,45.9,1,0,0,100.0,1
+29,1,Sudeste,Fisioterapia,Teleconsulta,4,0.795,76.6,0,0,0,82.1,1
+36,1,Nordeste,Clínico Geral,Teleconsulta,1,0.471,87.6,0,0,0,65.5,0
+23,1,Norte,Endocrinologia,Wearable,12,0.654,75.1,2,2,0,99.4,0
+69,0,Nordeste,Endocrinologia,EHR Portal,6,0.577,70.9,1,1,1,78.7,0
+81,0,Sul,Clínico Geral,Teleconsulta,3,0.842,74.4,0,0,1,90.3,1
+61,0,Sudeste,Clínico Geral,EHR Portal,4,0.653,92.6,0,0,0,82.6,0
+27,0,Nordeste,Fisioterapia,Wearable,11,0.707,77.3,0,0,0,90.1,1
+30,1,Nordeste,Clínico Geral,Teleconsulta,2,0.686,100.0,1,0,1,77.1,0
+20,1,Sul,Endocrinologia,Teleconsulta,2,0.454,71.2,0,0,0,63.7,0
+53,0,Sudeste,Psiquiatria,Wearable,7,0.973,80.6,0,0,0,100.0,1
+69,0,Nordeste,Clínico Geral,EHR Portal,8,0.839,72.8,1,1,0,97.6,1
+28,1,Sul,Psiquiatria,Wearable,11,0.585,100.0,1,1,0,96.5,0
+79,0,Sudeste,Endocrinologia,Teleconsulta,6,0.755,80.2,1,1,1,89.3,1
+36,0,Sudeste,Endocrinologia,Wearable,15,0.895,100.0,0,0,1,100.0,1
+55,1,Sudeste,Psiquiatria,Teleconsulta,3,0.73,73.0,1,0,0,83.7,1
+66,1,Sudeste,Clínico Geral,EHR Portal,5,1.0,96.3,0,0,0,98.0,1
+56,0,Centro-Oeste,Psiquiatria,Wearable,13,1.0,79.4,1,1,1,100.0,1
+52,1,Rural,Clínico Geral,Teleconsulta,1,0.697,88.0,1,1,0,75.4,0
+42,1,Sudeste,Fisioterapia,Teleconsulta,1,0.615,63.4,1,1,0,67.0,0
+48,0,Sudeste,Cardiologia,EHR Portal,8,0.542,82.2,0,0,0,89.5,0
+35,0,Sudeste,Clínico Geral,EHR Portal,5,0.322,65.2,0,0,0,78.2,0
+39,1,Rural,Endocrinologia,Teleconsulta,1,0.945,81.1,1,0,1,88.2,1
+72,1,Norte,Fisioterapia,Wearable,15,0.656,59.8,0,0,0,100.0,0
+81,0,Norte,Fisioterapia,Teleconsulta,4,0.878,76.9,1,1,1,87.5,1
+79,0,Sudeste,Cardiologia,Teleconsulta,5,0.914,91.1,0,0,0,87.2,1
+41,1,Nordeste,Clínico Geral,Teleconsulta,5,0.525,84.6,2,2,0,75.0,0
+41,0,Sudeste,Clínico Geral,Wearable,10,0.552,63.2,0,0,1,95.0,0
+22,0,Sudeste,Clínico Geral,Teleconsulta,0,1.0,55.2,2,1,1,69.0,0
+37,0,Centro-Oeste,Psiquiatria,EHR Portal,8,0.707,84.0,0,0,0,98.9,1
+60,0,Nordeste,Endocrinologia,Teleconsulta,3,0.601,97.0,0,0,0,75.2,0
+37,1,Sudeste,Fisioterapia,Wearable,11,0.532,66.4,1,1,1,99.7,0
+70,1,Nordeste,Cardiologia,EHR Portal,1,0.695,100.0,0,0,0,77.7,0
+21,0,Nordeste,Cardiologia,Teleconsulta,1,0.991,77.9,0,0,0,87.2,1
+47,1,Sudeste,Clínico Geral,Teleconsulta,4,0.843,54.5,1,0,0,94.2,1
+38,0,Nordeste,Clínico Geral,Teleconsulta,4,0.753,59.3,0,0,0,78.6,1
+53,0,Sudeste,Cardiologia,Teleconsulta,2,1.0,87.2,1,0,1,85.8,1
+19,0,Rural,Clínico Geral,EHR Portal,7,0.971,79.6,1,0,1,93.0,1
+48,1,Sudeste,Psiquiatria,EHR Portal,5,0.78,95.8,0,0,0,83.8,1
+74,1,Sudeste,Clínico Geral,Teleconsulta,1,1.0,63.6,0,0,0,80.1,1
+79,1,Sudeste,Cardiologia,EHR Portal,5,0.675,79.4,0,0,0,80.4,0
+36,0,Rural,Fisioterapia,Teleconsulta,3,0.918,78.1,0,0,0,79.6,1
+48,0,Sul,Endocrinologia,Teleconsulta,1,0.649,76.3,1,0,0,72.1,0
+67,0,Sul,Psiquiatria,Teleconsulta,2,0.883,73.4,0,0,0,84.1,1
+51,1,Nordeste,Fisioterapia,Teleconsulta,4,0.675,73.6,2,2,1,75.6,0
+57,0,Nordeste,Clínico Geral,EHR Portal,4,0.803,80.1,0,0,1,84.1,1
+42,1,Nordeste,Cardiologia,Teleconsulta,2,1.0,81.6,0,0,0,93.7,1
+78,1,Nordeste,Clínico Geral,EHR Portal,3,0.891,81.0,2,2,1,78.4,1
+63,0,Nordeste,Clínico Geral,Teleconsulta,1,0.806,92.5,0,0,1,89.9,1
+87,0,Sul,Cardiologia,EHR Portal,4,0.581,63.6,0,0,0,72.4,0
+74,0,Nordeste,Clínico Geral,Teleconsulta,4,0.754,56.3,1,1,1,80.9,1
+44,1,Nordeste,Clínico Geral,Teleconsulta,4,0.539,90.2,0,0,0,84.9,0
+41,1,Sul,Fisioterapia,Teleconsulta,1,0.88,66.7,0,0,0,86.5,1
+24,0,Sul,Fisioterapia,Teleconsulta,0,0.875,73.4,2,1,0,79.6,1
+62,1,Nordeste,Psiquiatria,Teleconsulta,1,0.688,70.7,1,1,0,70.0,0
+71,0,Nordeste,Clínico Geral,Teleconsulta,2,1.0,70.4,2,2,1,81.0,1
+43,0,Sudeste,Fisioterapia,EHR Portal,5,0.994,60.5,0,0,1,87.0,1
+19,1,Rural,Endocrinologia,Teleconsulta,2,0.747,71.2,0,0,0,86.9,1
+77,1,Sudeste,Endocrinologia,EHR Portal,3,0.822,85.8,1,1,0,82.2,1
+34,0,Sudeste,Clínico Geral,EHR Portal,4,0.614,78.0,0,0,1,80.5,0
+59,1,Sudeste,Cardiologia,EHR Portal,4,0.671,84.1,1,1,1,76.3,0
+21,1,Sudeste,Cardiologia,EHR Portal,3,0.526,72.0,0,0,0,67.4,0
+22,1,Nordeste,Clínico Geral,Teleconsulta,1,0.634,88.8,1,1,0,74.7,0
+82,1,Sudeste,Clínico Geral,EHR Portal,2,0.701,71.9,0,0,0,74.6,1
+66,0,Sul,Cardiologia,EHR Portal,6,0.421,52.7,0,0,0,72.5,0
+18,0,Sudeste,Clínico Geral,EHR Portal,6,0.824,81.8,1,1,1,82.8,1
+25,1,Nordeste,Clínico Geral,Teleconsulta,4,0.904,87.2,0,0,1,88.6,1
+53,0,Sudeste,Cardiologia,EHR Portal,4,0.719,71.3,0,0,1,88.8,1
+66,0,Sudeste,Clínico Geral,Teleconsulta,4,0.234,92.4,0,0,0,65.4,0
+48,0,Nordeste,Clínico Geral,Teleconsulta,1,0.674,67.8,0,0,1,77.1,0
+80,0,Centro-Oeste,Fisioterapia,Teleconsulta,1,0.469,86.0,0,0,1,51.9,0
+64,0,Centro-Oeste,Psiquiatria,Teleconsulta,1,0.61,98.9,0,0,0,71.3,0
+62,0,Rural,Endocrinologia,EHR Portal,9,0.981,78.4,1,0,1,91.5,1
+38,0,Nordeste,Clínico Geral,Wearable,11,0.282,75.3,0,0,0,90.1,0
+67,0,Sul,Clínico Geral,Teleconsulta,2,0.573,76.7,1,0,0,77.5,0
+80,1,Sudeste,Psiquiatria,EHR Portal,3,0.869,97.5,0,0,0,82.1,1
+21,1,Sul,Cardiologia,EHR Portal,5,0.594,82.8,2,2,0,82.7,0
+70,0,Rural,Cardiologia,Wearable,22,0.58,100.0,0,0,0,100.0,0
+81,0,Rural,Clínico Geral,EHR Portal,9,1.0,81.4,1,0,1,100.0,1
+49,0,Sul,Clínico Geral,Teleconsulta,1,0.788,70.2,0,0,0,74.3,1
+73,1,Sudeste,Clínico Geral,Teleconsulta,0,0.888,71.0,1,1,0,66.3,0
+43,1,Nordeste,Endocrinologia,EHR Portal,4,0.809,78.7,1,1,0,80.4,1
+31,1,Centro-Oeste,Psiquiatria,Teleconsulta,4,0.749,53.5,0,0,0,83.1,1
+76,1,Sudeste,Clínico Geral,Wearable,9,0.948,72.3,1,0,1,100.0,1
+40,0,Centro-Oeste,Endocrinologia,Wearable,11,1.0,72.6,1,0,0,100.0,1
+72,0,Sudeste,Psiquiatria,Wearable,6,0.417,80.9,0,0,0,74.8,0
+40,0,Norte,Psiquiatria,Teleconsulta,4,0.714,100.0,1,1,1,97.2,1
+46,0,Sudeste,Fisioterapia,EHR Portal,3,0.712,78.7,1,1,1,81.8,1
+67,0,Nordeste,Clínico Geral,EHR Portal,6,0.643,54.9,0,0,0,74.6,0
+42,1,Centro-Oeste,Psiquiatria,Teleconsulta,3,0.897,67.0,0,0,0,83.0,1
+76,0,Sudeste,Clínico Geral,Teleconsulta,1,0.766,81.1,1,1,1,82.4,1
+20,1,Sudeste,Clínico Geral,Teleconsulta,5,1.0,79.1,0,0,0,92.5,1
+18,0,Sul,Clínico Geral,Teleconsulta,0,0.918,97.5,1,0,1,86.1,1
+23,0,Sudeste,Fisioterapia,Wearable,7,0.966,89.5,1,1,0,89.8,1
+36,1,Sudeste,Clínico Geral,EHR Portal,3,0.504,89.2,0,0,0,67.9,0
+21,0,Centro-Oeste,Cardiologia,Teleconsulta,3,0.575,75.4,0,0,0,71.5,0
+45,0,Nordeste,Psiquiatria,EHR Portal,7,0.59,91.2,0,0,1,85.4,0
+19,0,Sudeste,Fisioterapia,Teleconsulta,1,0.958,67.2,1,1,1,82.7,1
+72,1,Nordeste,Psiquiatria,Teleconsulta,4,0.546,89.6,0,0,1,81.8,0
+29,0,Sul,Psiquiatria,Teleconsulta,3,0.551,74.6,1,1,0,86.7,0
+87,1,Sul,Endocrinologia,EHR Portal,0,0.518,60.6,0,0,0,60.9,0
+79,1,Nordeste,Cardiologia,EHR Portal,4,1.0,85.1,0,0,1,90.0,1
+67,1,Sudeste,Psiquiatria,EHR Portal,7,0.694,94.8,0,0,0,86.9,0
+75,0,Sudeste,Cardiologia,Wearable,9,0.815,73.1,1,0,0,100.0,1
+73,1,Nordeste,Clínico Geral,Teleconsulta,1,0.515,96.8,1,1,0,77.8,0
+78,0,Sudeste,Psiquiatria,EHR Portal,5,0.893,58.1,0,0,0,84.3,1
+57,1,Sudeste,Fisioterapia,Teleconsulta,4,0.401,63.6,0,0,0,80.7,0
+62,0,Rural,Psiquiatria,Teleconsulta,2,0.544,76.2,0,0,1,68.6,0
+51,0,Centro-Oeste,Fisioterapia,EHR Portal,1,0.588,73.6,0,0,0,76.0,0
+62,0,Sudeste,Clínico Geral,Teleconsulta,2,0.759,70.0,0,0,1,85.0,1
+45,1,Centro-Oeste,Endocrinologia,Teleconsulta,2,0.577,79.6,0,0,0,66.9,0
+26,1,Nordeste,Cardiologia,Teleconsulta,6,0.994,71.7,0,0,1,96.7,1
+85,0,Sudeste,Fisioterapia,Teleconsulta,3,0.811,73.7,0,0,0,68.3,0
+68,0,Sudeste,Psiquiatria,Wearable,11,0.596,81.3,0,0,0,98.4,0
+68,1,Sudeste,Fisioterapia,Teleconsulta,2,0.9,70.0,1,0,1,76.4,1
+38,1,Sul,Clínico Geral,EHR Portal,0,0.649,76.7,0,0,0,73.8,0
+73,1,Nordeste,Cardiologia,Wearable,21,0.614,70.3,1,1,0,100.0,0
+55,0,Sudeste,Clínico Geral,EHR Portal,5,0.881,63.5,0,0,0,92.6,1
+23,1,Nordeste,Fisioterapia,Teleconsulta,2,0.278,87.2,1,1,0,70.3,0
+86,1,Sudeste,Clínico Geral,Wearable,12,0.852,98.5,1,1,0,100.0,1
+89,0,Norte,Clínico Geral,Teleconsulta,1,0.592,90.8,0,0,0,71.7,0
+80,0,Nordeste,Psiquiatria,Teleconsulta,1,0.591,82.0,0,0,0,71.9,0
+52,0,Sudeste,Clínico Geral,EHR Portal,5,1.0,70.3,0,0,1,86.0,1
+34,0,Centro-Oeste,Endocrinologia,Teleconsulta,2,0.624,74.6,0,0,0,73.3,0
+18,1,Sudeste,Cardiologia,EHR Portal,5,0.892,90.7,0,0,0,89.9,1
+71,0,Rural,Clínico Geral,Teleconsulta,2,0.77,50.6,0,0,1,71.2,1
+82,0,Sudeste,Psiquiatria,EHR Portal,4,0.789,73.6,0,0,1,74.8,1
+25,0,Sudeste,Clínico Geral,EHR Portal,8,0.675,86.8,0,0,0,84.5,0
+67,1,Rural,Fisioterapia,Wearable,10,0.666,64.3,0,0,1,75.9,0
+19,1,Sudeste,Endocrinologia,Teleconsulta,1,0.995,83.1,0,0,1,83.0,1
+73,0,Nordeste,Endocrinologia,Teleconsulta,3,0.887,82.5,0,0,1,87.4,1
+20,1,Sudeste,Clínico Geral,Wearable,10,0.63,60.5,2,2,0,76.6,0
+88,0,Sudeste,Endocrinologia,EHR Portal,5,0.532,79.0,0,0,0,80.0,0
+30,1,Sudeste,Psiquiatria,Teleconsulta,1,0.615,70.6,1,1,0,70.6,0
+46,1,Sudeste,Fisioterapia,Teleconsulta,2,0.897,83.0,2,1,1,77.9,1
+68,0,Nordeste,Cardiologia,EHR Portal,7,0.932,86.0,0,0,0,94.1,1
+78,1,Sudeste,Fisioterapia,EHR Portal,0,0.82,82.8,0,0,0,82.3,1
+44,0,Norte,Clínico Geral,EHR Portal,10,0.429,78.9,1,1,0,81.8,0
+88,1,Sul,Fisioterapia,Wearable,9,0.856,81.5,2,2,1,98.1,1
+19,0,Sudeste,Clínico Geral,Teleconsulta,2,0.955,63.9,0,0,0,84.4,1
+51,1,Rural,Cardiologia,Teleconsulta,3,0.751,77.6,3,3,1,76.7,1
+89,0,Norte,Clínico Geral,EHR Portal,9,1.0,68.4,1,1,1,100.0,1
+37,0,Sudeste,Clínico Geral,Wearable,9,0.482,90.4,0,0,0,89.8,0
+56,0,Nordeste,Fisioterapia,Teleconsulta,5,0.843,86.2,0,0,0,88.0,1
+50,1,Sudeste,Clínico Geral,EHR Portal,0,0.536,86.2,0,0,1,80.8,0
+46,0,Centro-Oeste,Cardiologia,Teleconsulta,3,0.911,98.6,1,1,1,93.8,1
+73,1,Sudeste,Fisioterapia,Teleconsulta,2,0.83,74.0,1,1,0,72.0,1
+55,0,Sudeste,Clínico Geral,Wearable,11,1.0,71.4,1,1,1,100.0,1
+69,1,Rural,Clínico Geral,Teleconsulta,2,0.81,73.8,0,0,0,92.1,1
+55,0,Nordeste,Clínico Geral,Teleconsulta,4,0.647,58.8,0,0,0,72.1,0
+89,1,Sudeste,Cardiologia,EHR Portal,5,0.632,59.7,0,0,1,79.2,0
+51,1,Sudeste,Clínico Geral,Teleconsulta,4,0.675,85.5,0,0,0,88.0,0
+75,0,Nordeste,Endocrinologia,Teleconsulta,2,0.628,61.3,1,1,1,75.7,0
+62,0,Sudeste,Cardiologia,EHR Portal,10,0.962,65.1,2,1,0,100.0,1
+75,1,Sudeste,Fisioterapia,Teleconsulta,3,0.95,76.8,0,0,1,90.3,1
+81,0,Sudeste,Clínico Geral,EHR Portal,6,0.451,73.1,0,0,0,77.8,0
+34,0,Sudeste,Clínico Geral,Teleconsulta,2,0.727,88.6,0,0,0,75.5,1
+39,0,Sudeste,Clínico Geral,Teleconsulta,1,0.731,78.7,0,0,1,78.1,1
+39,1,Rural,Clínico Geral,EHR Portal,1,0.579,68.4,2,1,1,67.8,0
+53,1,Norte,Psiquiatria,Teleconsulta,0,0.799,89.7,2,2,0,75.0,1
+53,1,Sudeste,Clínico Geral,Wearable,13,0.983,86.7,4,4,1,100.0,1
+18,1,Sudeste,Clínico Geral,Wearable,13,0.881,61.1,0,0,0,100.0,1
+82,0,Norte,Endocrinologia,EHR Portal,3,0.962,81.0,1,1,0,96.2,1
+79,0,Sudeste,Psiquiatria,Teleconsulta,1,0.591,69.4,0,0,0,71.6,0
+61,0,Sudeste,Fisioterapia,Teleconsulta,3,0.727,69.1,0,0,0,78.0,1
+40,0,Nordeste,Cardiologia,Wearable,13,0.582,100.0,0,0,0,92.0,0
+77,0,Sudeste,Clínico Geral,Teleconsulta,3,0.763,79.5,0,0,0,92.0,1
+37,1,Sudeste,Endocrinologia,EHR Portal,6,0.779,75.4,1,1,1,87.9,1
+40,0,Norte,Cardiologia,EHR Portal,5,0.893,79.0,0,0,0,78.3,1
+89,0,Nordeste,Fisioterapia,Teleconsulta,3,0.956,88.5,0,0,1,93.5,1
+84,0,Sudeste,Clínico Geral,Teleconsulta,1,0.844,69.6,1,0,0,77.7,1
+60,0,Sudeste,Fisioterapia,EHR Portal,10,0.565,71.6,2,2,0,85.0,0
+30,0,Sudeste,Endocrinologia,EHR Portal,7,0.477,85.9,1,1,0,87.2,0
+26,0,Sudeste,Clínico Geral,Teleconsulta,2,0.814,59.8,1,1,0,65.0,0
+87,0,Nordeste,Fisioterapia,EHR Portal,3,0.99,89.9,0,0,0,86.2,1
+37,0,Sudeste,Clínico Geral,EHR Portal,6,0.716,58.7,0,0,1,82.0,1
+67,1,Nordeste,Endocrinologia,Teleconsulta,2,0.445,75.1,1,0,0,73.3,0
+43,1,Sul,Clínico Geral,Teleconsulta,1,1.0,58.8,1,0,0,92.2,1
+53,1,Sudeste,Psiquiatria,EHR Portal,5,0.808,65.3,1,1,0,83.8,1
+88,1,Nordeste,Fisioterapia,EHR Portal,4,0.751,93.6,0,0,0,87.7,1
+60,1,Sudeste,Fisioterapia,Wearable,5,0.51,90.5,0,0,0,93.6,0
+49,0,Sul,Fisioterapia,Teleconsulta,3,0.723,91.8,1,1,0,82.1,1
+47,1,Sul,Fisioterapia,Wearable,12,0.844,60.6,0,0,0,100.0,1
+34,0,Sudeste,Clínico Geral,EHR Portal,5,0.811,65.4,1,1,0,78.9,1
+58,0,Nordeste,Clínico Geral,EHR Portal,8,0.598,82.1,1,1,0,97.6,0
+59,0,Sudeste,Clínico Geral,Teleconsulta,4,0.71,86.6,0,0,0,79.5,1
+24,0,Sudeste,Clínico Geral,Teleconsulta,1,0.609,68.4,0,0,1,72.1,0
+47,1,Sudeste,Endocrinologia,EHR Portal,7,1.0,71.1,1,1,1,97.3,1
+64,0,Nordeste,Clínico Geral,Teleconsulta,1,0.881,64.4,0,0,0,78.7,1
+21,1,Sul,Endocrinologia,Teleconsulta,2,0.626,97.9,0,0,1,75.7,0
+88,1,Sudeste,Psiquiatria,Wearable,16,0.51,72.3,1,1,1,100.0,0
+79,0,Nordeste,Cardiologia,Teleconsulta,2,0.77,78.4,0,0,0,88.0,1
+63,0,Nordeste,Clínico Geral,Wearable,16,0.631,79.0,0,0,0,100.0,0
+19,0,Nordeste,Cardiologia,EHR Portal,3,0.645,91.3,0,0,0,78.8,0
+55,0,Sudeste,Endocrinologia,EHR Portal,1,0.516,66.6,1,1,0,65.4,0
+82,1,Nordeste,Fisioterapia,Teleconsulta,3,0.538,92.0,1,1,0,72.5,0
+19,1,Sudeste,Clínico Geral,EHR Portal,10,0.749,62.7,0,0,0,100.0,1
+75,1,Nordeste,Clínico Geral,EHR Portal,3,0.672,92.0,1,1,1,81.2,0
+78,0,Nordeste,Fisioterapia,Wearable,13,1.0,57.4,0,0,0,100.0,1
+23,1,Nordeste,Clínico Geral,Teleconsulta,3,0.827,76.7,1,0,0,86.4,1
+34,1,Centro-Oeste,Clínico Geral,Teleconsulta,3,0.513,97.5,1,1,1,87.6,0
+70,0,Sudeste,Cardiologia,Wearable,6,0.444,86.4,1,1,0,78.2,0
+83,0,Sudeste,Fisioterapia,Teleconsulta,1,0.792,83.1,1,1,0,72.9,1
+73,0,Sudeste,Clínico Geral,EHR Portal,6,0.649,65.4,0,0,0,91.8,0
+55,0,Sudeste,Psiquiatria,Teleconsulta,1,0.96,69.2,1,1,1,85.9,1
+61,1,Sudeste,Clínico Geral,Teleconsulta,5,0.771,94.1,1,1,0,90.5,1
+55,1,Norte,Clínico Geral,EHR Portal,5,0.363,83.7,2,2,0,82.1,0
+59,0,Sudeste,Clínico Geral,EHR Portal,9,0.537,88.7,1,1,1,91.8,0

@@ -1,0 +1,156 @@
+IMREA / HealthSync — ARTIFICIAL INTELLIGENCE & CHATBOT
+Arquivo explicativo dos dados para treinamento de IA
+Versão: 1.1  |  Data: 2025-09-30
+
+======================================================================
+1) DESCRIÇÃO (o que é este pacote)
+----------------------------------------------------------------------
+Este pacote contém **duas bases de dados sintéticas** (sem PII) para
+treinamento e experimentação de modelos de IA/Chatbot no contexto do
+projeto HealthSync/IMREA:
+- Foco 1: Dificuldade de pessoas mais velhas em se adaptar à tecnologia.
+- Foco 2: Uso de tecnologia na saúde (teleconsulta, portal do paciente,
+  wearables) e engajamento.
+
+Os dados foram criados com **regras de domínio** e **ruído controlado**,
+para simular padrões realistas e apoiar tarefas de classificação,
+regressão e segmentação (clustering), sem risco de identificação pessoal.
+
+======================================================================
+2) ARQUIVOS ENTREGUES (ZIP + CSVs + TXT)
+----------------------------------------------------------------------
+• datasets_healthsync_ai.zip
+   ├─ dataset_1_older_adults_tech_difficulty.csv
+   ├─ dataset_2_health_technology_usage.csv
+   └─ EXPLICACOES_E_EQUIPE.txt  (este arquivo)
+
+Formato: CSV UTF-8, com cabeçalho.
+Compatível com Excel, Python (pandas), R, etc.
+
+======================================================================
+3) ADERÊNCIA AO TEMA DO DESAFIO  [+50 pontos]
+----------------------------------------------------------------------
+• Tema do desafio: IA/Chatbot para contexto de Teleconsulta IMREA / Saúde.
+• Dataset 1: Retrata **barreiras/dificuldades digitais** de 55+ que
+  impactam o sucesso no uso da teleconsulta.
+• Dataset 2: Retrata **tecnologias em saúde** (Teleconsulta/EHR/Wearable),
+  engajamento e um rótulo de uso de alto valor (HighValueUse).
+→ As duas bases apoiam decisões do Chatbot e de modelos de apoio:
+  personalização, priorização de suporte e melhorias de adesão.
+
+======================================================================
+4) EXPLICAÇÃO DOS DADOS  [+50 pontos]
+----------------------------------------------------------------------
+4.1) Fonte / Coleta
+- Dados **100% sintéticos** gerados para P&D/ensino, sem qualquer PII.
+- Construídos a partir de distribuições realistas (ex.: normal, Poisson,
+  categóricas com probabilidades), com relações estruturais (ex.: maior
+  letramento → menor dificuldade; maior adesão → maior engajamento).
+- Reprodutível (seed fixa). Não há vínculo com bases reais.
+
+4.2) Dataset 1 — Older Adults Tech Difficulty
+• Tamanho: 600 linhas (indivíduos com 55+ anos).
+• Objetivo: permitir classificar/estimar a **dificuldade** de adaptação
+  à tecnologia para orientar **onboarding** e **suporte** do Chatbot.
+• Principais colunas (dicionário de dados):
+  - age: idade (55–89).
+  - gender: {F, M, Outro/Prefiro não dizer}.
+  - education: {Fundamental, Médio, Técnico, Superior, Pós-graduação}.
+  - region: {Norte, Nordeste, Centro-Oeste, Sudeste, Sul, Rural}.
+  - household_income: faixa de renda {<=1 SM, 1-2 SM, 2-4 SM, 4-8 SM, >=8 SM}.
+  - internet_access: 0/1 (tem acesso à internet).
+  - device_ownership: {Nenhum, Feature phone, Smartphone, Smartphone+PC/Tablet}.
+  - years_using_smartphone: anos de uso (0–20).
+  - digital_literacy: letramento digital (0–100).
+  - self_efficacy: autoeficácia (0–100).
+  - privacy_concern: preocupação com privacidade (0–100).
+  - vision_impairment / hearing_impairment / motor_impairment: 0/1 (limitações).
+  - weekly_smartphone_use_hours: horas/semana no smartphone (0–50).
+  - uses_messaging_apps / uses_video_calls / uses_banking_apps: 0/1.
+  - uses_telehealth_before: 0/1 (já usou teleconsulta antes).
+  - difficulty_score: escore composto (0–100) — **métrica contínua**.
+  - difficulty_level: {Baixa, Média, Alta} — **rótulo de classificação**.
+• Características & Qualidade:
+  - Variáveis contínuas e categóricas com faixas e proporções plausíveis.
+  - Sem valores vazios por construção; coerência interna entre variáveis.
+  - Adequado para classificação (difficulty_level), regressão (score) e clustering.
+• Uso pretendido:
+  - Identificar perfis com maior dificuldade → mensagens e materiais de onboarding
+    personalizados (texto/vídeo), oferta de suporte assíncrono e lembretes.
+
+4.3) Dataset 2 — Health Technology Usage
+• Tamanho: 700 linhas (pacientes adultos 18–89).
+• Objetivo: modelar **engajamento** com tecnologias em saúde e o rótulo
+  **HighValueUse** (uso de alto valor) para priorizar **intervenções**.
+• Principais colunas (dicionário de dados):
+  - patient_age: idade (18–89).
+  - has_chronic_condition: 0/1 (condição crônica).
+  - region: {Norte, Nordeste, Centro-Oeste, Sudeste, Sul, Rural}.
+  - provider_type: {Clínico Geral, Fisioterapia, Cardiologia, Endocrinologia, Psiquiatria}.
+  - tech_modality: {Teleconsulta, EHR Portal, Wearable}.
+  - sessions_last_90d: nº de sessões/acessos em 90 dias (0–40).
+  - adherence_rate: adesão (0–1).
+  - satisfaction_0_100: satisfação (0–100).
+  - baseline_er_visits / post_er_visits: visitas ao pronto-socorro (0–6).
+  - bp_control_improved: 0/1 (proxy de controle pressórico melhorou).
+  - engagement_score: escore composto (0–100) — **métrica contínua**.
+  - HighValueUse: 0/1 — **rótulo binário** de uso de alto valor.
+• Características & Qualidade:
+  - Combina comportamentos (sessões, adesão), percepção (satisfação) e proxies clínicos.
+  - Variáveis balanceadas para treinos básicos; sem PII.
+  - Adequado para classificação (HighValueUse), regressão (engagement) e análises.
+• Uso pretendido:
+  - Estimar probabilidade de alto valor no uso (HighValueUse) e engajamento para
+    acionar intervenções (lembretes, conteúdo educativo, follow-ups).
+
+4.4) Limitações e Vieses
+- Por serem sintéticos, os desfechos clínicos são **proxies** e não devem ser
+  interpretados como causalidade real.
+- Probabilidades e distribuições foram calibradas para plausibilidade, não para
+  refletir estatísticas oficiais.
+
+======================================================================
+5) INSTRUÇÕES DE USO
+----------------------------------------------------------------------
+• Descompacte o ZIP e importe os CSVs no ambiente de sua preferência.
+  Ex. (Python/pandas):
+    import pandas as pd
+    df1 = pd.read_csv("dataset_1_older_adults_tech_difficulty.csv")
+    df2 = pd.read_csv("dataset_2_health_technology_usage.csv")
+• Tarefas sugeridas:
+  - Classificação: difficulty_level (Dataset 1), HighValueUse (Dataset 2).
+  - Regressão: difficulty_score (Dataset 1), engagement_score (Dataset 2).
+  - Segmentação: KMeans/DBSCAN para perfis de suporte/engajamento.
+• Boas práticas:
+  - Separar treino/validação/teste; validação cruzada; checagens de overfitting.
+  - Documentar métricas (accuracy, F1, ROC AUC, MAE/RMSE conforme tarefa).
+
+======================================================================
+6) EQUIPE (nomes dos membros)
+----------------------------------------------------------------------
+• Maicon — RM 561279 — Turma 1TDSPW
+• Richard — RM 566127 — Turma 1TDSPW
+• Laura — RM 566376 — Turma 1TDSPW
+
+======================================================================
+7) CONFORMIDADE COM A ENTREGA
+----------------------------------------------------------------------
+• Entrega exigida:
+  - Arquivo **.zip** com os dados (já fornecido: datasets_healthsync_ai.zip).
+  - Arquivo **.txt** com explicações e membros (este arquivo).
+• Penalidades (atenção da equipe):
+  - **Prazo**: atrasos impactam a nota (−100 pontos).
+  - **Integridade**: evitar arquivos corrompidos ou errados; validar abertura dos CSVs.
+
+======================================================================
+8) ÉTICA & PRIVACIDADE
+----------------------------------------------------------------------
+• Bases **sintéticas** e **anônimas**; não há PII.
+• Em qualquer uso futuro com dados reais: cumprir LGPD (consentimento explícito,
+  minimização de dados, segurança, finalidade legítima e transparência).
+
+======================================================================
+9) CONTATO
+----------------------------------------------------------------------
+Dúvidas técnicas: documentar no README do repositório do grupo
+ou abrir issue no GitHub do projeto.
