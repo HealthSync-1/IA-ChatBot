@@ -29,8 +29,7 @@
 
 ---
 
-## 3) Por que os dados aderem ao tema (+50)
-
+## 3) Por que os dados aderem ao tema 
 - **Teleconsulta IMREA / Saúde:**  
   - Dataset 1 foca **barreiras digitais** (acesso, letramento, autoeficácia, limitações sensoriais/motoras) — variáveis que **impactam diretamente** a capacidade do paciente de participar de teleconsultas.
   - Dataset 2 foca **tecnologias de saúde** (Teleconsulta, EHR Portal, Wearables), **engajamento** e **uso de alto valor** — indicadores que ajudam a priorizar intervenções e personalizar o suporte do Chatbot.
@@ -68,7 +67,7 @@
 
 ---
 
-## 6) Descrição dos dados (+50)
+## 6) Descrição dos dados 
 
 ### 6.1 Dataset 1 — Older Adults Tech Difficulty (600 linhas)
 **Objetivo:** identificar **níveis de dificuldade** na adoção de tecnologia por pessoas **55+** para orientar onboarding e suporte na teleconsulta.
@@ -147,22 +146,7 @@ print(df2.dtypes)
 
 ---
 
-## 9) Checklist de conformidade com a entrega
-
-- [x] **Dados aderentes ao tema** (teleconsulta/saúde/adoção tecnológica).  
-- [x] **Explicações detalhadas** no `.txt` (fonte/como gerado, significado, tamanho/qualidade, variáveis importantes, **rótulos** e **objetivos de IA**).  
-- [x] **Entrega em `.zip`** contendo os dois `.csv` + `.txt`.  
-- [x] **Sem PII**, dados sintéticos.  
-- [x] **Nomes/RMs** dos integrantes no `.txt`.
-
-### Penalidades (atenção)
-- Entrega **fora do prazo**: −100.  
-- **Arquivos errados ou corrompidos**: perde a pontuação do item faltante.  
-> Recomendação: validar a abertura dos CSVs antes de enviar e conferir o conteúdo do `.zip`.
-
----
-
-## 10) Membros do grupo
+## 9) Membros do grupo
 
 - **Maicon** — RM **561279** — Turma **1TDSPW**  
 - **Richard** — RM **566127** — Turma **1TDSPW**  
@@ -172,7 +156,7 @@ print(df2.dtypes)
 
 ---
 
-## 11) Guia rápido para o avaliador
+## 10) Guia rápido para o avaliador
 
 - Abra `EXPLICACOES_E_EQUIPE.txt` para a **narrativa completa**.  
 - Os **rótulos** a serem previstos estão claros: `difficulty_level` (Dataset 1) e `HighValueUse` (Dataset 2).  
@@ -181,7 +165,7 @@ print(df2.dtypes)
 
 ---
 
-## 12) Licença & uso
+## 11) Licença & uso
 
 - Bases **sintéticas** disponibilizadas para **P&D/ensino** no contexto deste desafio.  
 - Ao trabalhar com **dados reais** no futuro: cumprir **LGPD** (consentimento, minimização, segurança, finalidade e transparência).
